@@ -47,9 +47,13 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 ## Work Experience
 # Leonardo Helicopters Intern – AWPC, Philadelphia, PA (_May 2024 – Aug 2024_)
 •	Worked as an Aircraft System Integration (ASI) Engineering Intern on the Flight Mechanics team of the AW609 (Tilt-Rotor) program
+
 •	Flight Data Analysis. Analyzed mast torque and engine power losses in AW609 flight tests, produced flight envelope plots under varying conditions, and conducted comparative blade studies using programs such as JPanda, PyPanda, iMission, Excel, MATLAB, and Python
+
 •	Conducted compliance checks and formatted test reports and plans, ensuring adherence to established rules and standards
+
 •	Produced performance data tables for the Tokyo Metropolitan Government, supporting potential AW609 operations at Ogasawara and contributing to future business opportunities with TMG.
+
 •	Gained knowledge in helicopter flight mechanics and tiltrotor technologies, actively assisting in telemetry and flight simulations for the AW609 aircraft
 
 
@@ -83,19 +87,19 @@ Here's one of my articles about Leonardo (for which I would go intern two years 
 
 
 ## Achievements & Funding
-- Dean’s List (Florida Tech) _2022 – Present_
+- **Dean’s List** (Florida Tech) _2022 – Present_
 Recognized for maintaining high academic performance
 
-- Distinguished Student Scholar (Florida Tech) _April 2024_
+- **Distinguished Student Scholar** (Florida Tech) _April 2024_
 The distinguished student scholars are undergraduate students who have completed more than 55 credit hours at Florida Tech with cumulative GPAs of 3.8/4.0 or higher
 
-- Outstanding Student of the Year – Department of Aerospace, Physics, and Space Sciences (Florida Tech) _April 2024_
+- **Outstanding Student of the Year** – Department of Aerospace, Physics, and Space Sciences (Florida Tech) _April 2024_
 The awards recognize well-rounded, active student-scholars, selected by their academic units, who have made contributions to their academic program, university, and community
 
-- Panther Fund Transfer Scholar Scholarship (Florida Tech) _August 2021 – May 2025_
+- **Panther Fund Transfer Scholar Scholarship** (Florida Tech) _August 2021 – May 2025_
 Secured a prestigious $40,000 scholarship, granted over four years, in recognition of academic excellence and potential
 
-- Oxford Study Abroad Scholarship Award (Florida Tech) _June – August 2022_
+- **Oxford Study Abroad Scholarship Award** (Florida Tech) _June – August 2022_
 Recipient of the $1,300 Scholarship for good academic standing (GPA > 3.75) and leadership
 
 

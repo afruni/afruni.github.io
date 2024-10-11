@@ -5,7 +5,7 @@ Here, you’ll find highlights of my projects, skills, and experiences that refl
 
 ## Education
 - B.S. Aerospace Engineering, Florida Institute of Tecnhology, USA (_May 2025_)
-  - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022)
+  - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
 - Graduate School loading...
   
 ## Skills, Languages & Co-curriculars

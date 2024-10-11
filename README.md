@@ -1,2 +1,4 @@
-# afruni.github.io
-Francesca Afruni's Digital Portfolio
+# Francesca Afruni's Digital Portfolio
+
+### Education
+Florida Institute of Tecnhology 

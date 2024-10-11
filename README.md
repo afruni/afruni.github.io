@@ -9,12 +9,15 @@
 **Engineering Skills**
 
 Creo PTC, Fusion 360, NX Siemens, MATLAB, Simulink, Python, C++, MS Office, 3D Printing, Laser Cutting, Soldering
+
 **Languages**
 
 Italian (mother-tongue), English (Bilingual knowledge), Spanish (School-level)
+
 **Soft Skills**
 
 Team-work, Project Management, Communication, Problem Solving, Adaptability
+
 **Co-curriculars**
 
 WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & Astronautics), ARES (Astrobiological Research & Education Society)
@@ -24,6 +27,7 @@ WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & 
 The primary objective of Project DROVER is to design, build, and fly a drone-rover hybrid prototype designed to enhance search and rescue operations capable of aerial and terrestrial navigation to locate and assist people in distress. This prototype will demonstrate the unique capability to land and drive when traversal via flying is not possible. Additionally, the vehicle will showcase the ability to execute turning maneuvers while airborne and land at an inclined angle. This hybrid vehicle holds the potential to revolutionize search and rescue operations by harnessing the energy efficiency of a rover combined with the agile air mobility of a drone. 
 The unique dual-mode design of the DROVER opens a new wide range of possibilities for the utilization of technology to positively impact human lives. Its design is easily interchangeable to accommodate different possible versions (for example, to assist agriculture, military operations, search and rescue, and inspection of hazardous areas). 
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
+
 •	Deliverables: SRR (completed), PDR (Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
 
 
@@ -34,6 +38,7 @@ This particular version will be focused on search and rescue operations, which o
 
 The project's main objective is to propose a design for a large observatory that will orbit around Earth in a highly eccentric orbit with an apoapsis close to the lunar orbit. My role was more focused on the thermal aspects of the telescope; Calculating the effects of the thermal environment on the telescope structure, with more emphasis on the mirrors to check for survivability and optical stability in given conditions. 
 Engaging in research has proven to be an exceptional experience. The practical application of knowledge acquired from lectures and laboratories has made me aware of the importance of details and how vital interconnections between different subjects are in engineering projects, highlighting the importance of teamwork in developing a high-quality project. 
+
 [**Publication on SPIE:**] (https://doi.org/10.1117/12.3020407)
 
 # RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)
@@ -51,6 +56,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 ## Worforce Developments & Summer Schools
 # NASA Mission Concept Academy (_Jan 2024 – May 2024_)
 Served as **Deputy Project Manager** in a NASA workforce development program focused on mastering exploration mission protocols and industry practices led by NASA professionals. Collaborated with a team to apply professional practices and procedures, enhancing project management skills and understanding of NASA's exploration processes
+
 •	Deliverables: Team Organizational Chart, MCR, SRR, MDR, PDR, PDR Presentation
 
 # ESA/EGRA Gravity-related Research Summer School – ESEC-Galaxia, Belgium (_June 2023_)
@@ -58,6 +64,7 @@ In June 2023, I was selected to be part of the ESA/ELGRA Gravity-Related Summer 
 
 # NASA Proposal Writing and Evaluation Experience Academy (_May 2023 – Aug 2023_)
 NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month workforce development held by NASA and Arizona State University designed to **teach proposal writing** and enhance effective teaming practices and soft skills. Contributed as an engineer to a team that researched and crafted a New Technology Proposal for NASA, showcasing innovative solutions and technical expertise. Played a key role as a secondary reviewer, assessing and scoring proposals from other teams, which honed critical evaluation skills and provided valuable insights into the proposal review process
+
 •	Deliverables: Taxonomy Topic Interest, Quad Chart, Org Chart, Shell Doc, Proposal, Review Panel
 
 ## Others

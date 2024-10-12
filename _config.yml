@@ -10,3 +10,8 @@ theme: jekyll-theme-minimal
 social_links:
   linkedin: "https://www.linkedin.com/in/francesca-afruni-147438221/"
   email: "fafruni2021@my.fit.edu"
+  
+header_pages:
+  - index.md
+  - about.md  # Create this page separately if you want an "About Me" section
+  - projects.md  # Create this page if you want to showcase individual projects

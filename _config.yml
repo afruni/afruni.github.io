@@ -1,6 +1,12 @@
 title: Francesca Afruni
 logo: franci_at_KSC.jpg
-description: hi! Email fafruni2021[at]fit.edu
-linkedin: francesca-afruni-147438221
+description: Welcome to my digital portfolio! 
+My name is Francesca Afruni, I’m from Italy, and I am a dedicated aerospace engineering student at the Florida Institute of Technology, with a strong background in both academic research and industry internships. 
+linkedin: "https://www.linkedin.com/in/francesca-afruni-147438221/"
+email: "fafruni2021@my.fit.edu"
 url: "https://afruni.github.io"
 theme: jekyll-theme-minimal
+
+social_links:
+  linkedin: "https://www.linkedin.com/in/francesca-afruni-147438221/"
+  email: "fafruni2021@my.fit.edu"

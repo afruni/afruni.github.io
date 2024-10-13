@@ -42,8 +42,8 @@ Engaging in research has proven to be an exceptional experience. The practical a
 [**Publication on SPIE Click Here**](https://doi.org/10.1117/12.3020407)
 
 **ASTTRO Team in front of the TVAC at University of Arizona**
-![ASTTRO Team at UoA](Pictures/UoA pic.jpg)
 
+![ASTTRO Team](Pictures/UoA%20pic.jpg)
 
 ### RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)
 I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where I tended to tomato plants grown in conditions that emulated the ones humans would have to face while farming on Mars; the experiment was so successful that Heinz Tomato Ketchup created a limited run of prototype [bottles “Marz Edition”](https://news.fit.edu/academics-research/heinz-marz-edition-ketchup-made-possible-by-florida-tech-science/) from the crops.

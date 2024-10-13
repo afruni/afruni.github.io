@@ -39,9 +39,9 @@ This particular version will be focused on search and rescue operations, which o
 The project's main objective is to propose a design for a large observatory that will orbit around Earth in a highly eccentric orbit with an apoapsis close to the lunar orbit. My role was more focused on the thermal aspects of the telescope; Calculating the effects of the thermal environment on the telescope structure, with more emphasis on the mirrors to check for survivability and optical stability in given conditions. 
 Engaging in research has proven to be an exceptional experience. The practical application of knowledge acquired from lectures and laboratories has made me aware of the importance of details and how vital interconnections between different subjects are in engineering projects, highlighting the importance of teamwork in developing a high-quality project. 
 
-[**Publication on SPIE**](https://doi.org/10.1117/12.3020407)
+[**Publication on SPIE Click Here**](https://doi.org/10.1117/12.3020407)
 
-![ASTTRO Team at UoA](Pictures/UoA pic.jpg)
+![ASTTRO Team at UoA](Pictures/UoA pic.jpg "ASTTRO Team in front of the TVAC at University of Arizona")
 
 ### RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)
 I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where I tended to tomato plants grown in conditions that emulated the ones humans would have to face while farming on Mars; the experiment was so successful that Heinz Tomato Ketchup created a limited run of prototype [bottles “Marz Edition”](https://news.fit.edu/academics-research/heinz-marz-edition-ketchup-made-possible-by-florida-tech-science/) from the crops.

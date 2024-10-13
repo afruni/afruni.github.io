@@ -67,6 +67,8 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 ### NASA Mission Concept Academy (_Jan 2024 – May 2024_)
 Served as **Deputy Project Manager** in a NASA workforce development program focused on mastering exploration mission protocols and industry practices led by NASA professionals. Collaborated with a team to apply professional practices and procedures, enhancing project management skills and understanding of NASA's exploration processes
 
+[Read our PDR Here](Docs/PDR%20TEAM%202_MCA.pdf)
+
 •	Deliverables: Team Organizational Chart, MCR, SRR, MDR, PDR, PDR Presentation
 
 ### ESA/EGRA Gravity-related Research Summer School – ESEC-Galaxia, Belgium (_June 2023_)
@@ -79,12 +81,16 @@ In June 2023, I was selected to be part of the ESA/ELGRA Gravity-Related Summer 
 ### NASA Proposal Writing and Evaluation Experience Academy (_May 2023 – Aug 2023_)
 NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month workforce development held by NASA and Arizona State University designed to **teach proposal writing** and enhance effective teaming practices and soft skills. Contributed as an engineer to a team that researched and crafted a New Technology Proposal for NASA, showcasing innovative solutions and technical expertise. Played a key role as a secondary reviewer, assessing and scoring proposals from other teams, which honed critical evaluation skills and provided valuable insights into the proposal review process
 
+[Read the Proposal Here](Docs/FULL%20PROPOSAL%20DOCUMENT%20TEAM%2028_NPWEE.pdf)
+
 •	Deliverables: Taxonomy Topic Interest, Quad Chart, Org Chart, Shell Doc, Proposal, Review Panel
 
 ## Others
 ### Mars Plant Challenge (_Fall 2021 - Spring 2022_)
 Although my studies are more focused on airplanes and rockets, I am aware of the importance of all STEM subjects to space exploration. At Florida Tech, I have been very active in the Astrobiological Research and Education Society (ARES), where I have been part of a team of undergraduate students who managed to grow Oyster mushrooms in simulant Martian regolith, with the main objective to understand how to feed a crew in space, maximize resources, and forward all research to NASA’s lunar program Artemis. The team, the “Florida Tech Fungis”, won “Best Plant Growth”, “Most Innovative Experiment”, and “Best Evaluation Results” prizes in the professional division of the competition. 
 [Click here to read what Florida Tech wrote about us!](https://news.fit.edu/panther-bites/student-team-wins-best-in-show-at-plant-moon-mars-challenge/?fbclid=IwAR36YlYfje_kMLPEJw-eJnnzu9fiswfn-1FLrZU32aJyluOpPblcj4fR1p8&fs=e&s=cl)
+
+[Read our first report here](Docs/FINAL%20REPORT_PLANTMARS.pdf)
 
 **Oyster Mushroom grown by the team!**
 
@@ -97,6 +103,8 @@ The purpose of this project was to design and build a glider. The requirements i
 
 ### Menzi Muck CAD Modeling (_Fall 2023_)
 Modeled a Menzi Muck for CAD class project with CREO PTC.
+
+[More Details Here](Docs/MEE2024_FinalProject_Group4.pdf)
 
 ![Solids Modeling Project](Pictures/menzimuck.png)
 

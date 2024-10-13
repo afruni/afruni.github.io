@@ -57,7 +57,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 •	Gained knowledge in helicopter flight mechanics and tiltrotor technologies, actively assisting in telemetry and flight simulations for the AW609 aircraft
 
 
-## Worforce Developments & Summer Schools
+## Workforce Developments & Summer Schools
 ### NASA Mission Concept Academy (_Jan 2024 – May 2024_)
 Served as **Deputy Project Manager** in a NASA workforce development program focused on mastering exploration mission protocols and industry practices led by NASA professionals. Collaborated with a team to apply professional practices and procedures, enhancing project management skills and understanding of NASA's exploration processes
 

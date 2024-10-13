@@ -126,7 +126,7 @@ Secured a prestigious **$40,000** scholarship, granted over four years, in recog
   
 Recipient of the **$1,300** Scholarship for good academic standing (GPA > 3.75) and leadership
 
-- _**Professional Full-Time Eventing Rider for Team Italia**_
+### **Professional Full-Time Eventing Rider for Team Italia**
   - **Eventing Team Italia U21** (2018 - 2019)
   - **Team Italia Squad U21 _CCIYR3 Eventing European Championships_, Maarsbergen NL** (2019)
   - Eventing Athlete of National Interest (2020 - 2022)

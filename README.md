@@ -42,8 +42,7 @@ Engaging in research has proven to be an exceptional experience. The practical a
 [**Publication on SPIE Click Here**](https://doi.org/10.1117/12.3020407)
 
 **ASTTRO Team in front of the TVAC at University of Arizona**
-![ASTTRO Team at UoA](Pictures/UoA_pic.jpg)
-
+![ASTTRO Team at UoA](Pictures/UoA pic.jpg)
 
 
 ### RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)

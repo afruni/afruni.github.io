@@ -41,7 +41,10 @@ Engaging in research has proven to be an exceptional experience. The practical a
 
 [**Publication on SPIE Click Here**](https://doi.org/10.1117/12.3020407)
 
-<img src="Pictures/UoA_pic.jpg" alt="ASTTRO Team at UoA" title="ASTTRO Team in front of the TVAC at the University of Arizona" />
+**ASTTRO Team in front of the TVAC at University of Arizona**
+![ASTTRO Team at UoA](Pictures/UoA_pic.jpg)
+
+
 
 ### RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)
 I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where I tended to tomato plants grown in conditions that emulated the ones humans would have to face while farming on Mars; the experiment was so successful that Heinz Tomato Ketchup created a limited run of prototype [bottles “Marz Edition”](https://news.fit.edu/academics-research/heinz-marz-edition-ketchup-made-possible-by-florida-tech-science/) from the crops.
@@ -70,7 +73,7 @@ Served as **Deputy Project Manager** in a NASA workforce development program foc
 ### ESA/EGRA Gravity-related Research Summer School – ESEC-Galaxia, Belgium (_June 2023_)
 In June 2023, I was selected to be part of the ESA/ELGRA Gravity-Related Summer School, where I got to fly to Belgium and experience a blended format of lectures, workshops, and team activities on altered-gravity experiments. Learning from experts affiliated with ESA and ELGRA, who freely shared their expertise in biology, human physiology, physics, and engineering, has been truly enriching. However, the most rewarding experience has been encountering an incredibly diverse and talented group of young students from universities all over Europe, creating a stimulating and supportive environment. As part of completing the Summer School, we were divided into groups to complete a multidisciplinary team project. The teams were structured to feature completely different backgrounds: engineers, biologists, neuroscientists, and doctors, all from different countries. Diving into unfamiliar subjects made the project challenging; for example, our project consisted of testing human’s attentional load in altered gravity, which focused mostly on neuroscience, something quite different from engineering. It was incredibly gratifying to see how different branches of STEM subjects intertwine and are necessary to one another and how we managed to each use our skills and different backgrounds to achieve a successful experiment. 
 
-![Saturn Team Presenting at ESA!](Pictures/esa_presentation.png)
+![Saturn Team Presenting at ESA!](Pictures/esa_presentation.png "Saturn Team Presenting at ESA!")
 
 ### NASA Proposal Writing and Evaluation Experience Academy (_May 2023 – Aug 2023_)
 NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month workforce development held by NASA and Arizona State University designed to **teach proposal writing** and enhance effective teaming practices and soft skills. Contributed as an engineer to a team that researched and crafted a New Technology Proposal for NASA, showcasing innovative solutions and technical expertise. Played a key role as a secondary reviewer, assessing and scoring proposals from other teams, which honed critical evaluation skills and provided valuable insights into the proposal review process

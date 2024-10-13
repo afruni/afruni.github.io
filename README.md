@@ -41,7 +41,7 @@ Engaging in research has proven to be an exceptional experience. The practical a
 
 [**Publication on SPIE Click Here**](https://doi.org/10.1117/12.3020407)
 
-**ASTTRO Team in front of the TVAC at University of Arizona**
+**ASTTRO Team in front of the TVAC at the University of Arizona**
 
 ![ASTTRO Team](Pictures/UoA%20pic.jpg)
 
@@ -72,6 +72,8 @@ Served as **Deputy Project Manager** in a NASA workforce development program foc
 ### ESA/EGRA Gravity-related Research Summer School – ESEC-Galaxia, Belgium (_June 2023_)
 In June 2023, I was selected to be part of the ESA/ELGRA Gravity-Related Summer School, where I got to fly to Belgium and experience a blended format of lectures, workshops, and team activities on altered-gravity experiments. Learning from experts affiliated with ESA and ELGRA, who freely shared their expertise in biology, human physiology, physics, and engineering, has been truly enriching. However, the most rewarding experience has been encountering an incredibly diverse and talented group of young students from universities all over Europe, creating a stimulating and supportive environment. As part of completing the Summer School, we were divided into groups to complete a multidisciplinary team project. The teams were structured to feature completely different backgrounds: engineers, biologists, neuroscientists, and doctors, all from different countries. Diving into unfamiliar subjects made the project challenging; for example, our project consisted of testing human’s attentional load in altered gravity, which focused mostly on neuroscience, something quite different from engineering. It was incredibly gratifying to see how different branches of STEM subjects intertwine and are necessary to one another and how we managed to each use our skills and different backgrounds to achieve a successful experiment. 
 
+**Saturn Team Presenting at ESA**
+
 ![Saturn Team Presenting at ESA!](Pictures/esa_presentation.png "Saturn Team Presenting at ESA!")
 
 ### NASA Proposal Writing and Evaluation Experience Academy (_May 2023 – Aug 2023_)
@@ -83,6 +85,8 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 ### Mars Plant Challenge (_Fall 2021 - Spring 2022_)
 Although my studies are more focused on airplanes and rockets, I am aware of the importance of all STEM subjects to space exploration. At Florida Tech, I have been very active in the Astrobiological Research and Education Society (ARES), where I have been part of a team of undergraduate students who managed to grow Oyster mushrooms in simulant Martian regolith, with the main objective to understand how to feed a crew in space, maximize resources, and forward all research to NASA’s lunar program Artemis. The team, the “Florida Tech Fungis”, won “Best Plant Growth”, “Most Innovative Experiment”, and “Best Evaluation Results” prizes in the professional division of the competition. 
 [Click here to read what Florida Tech wrote about us!](https://news.fit.edu/panther-bites/student-team-wins-best-in-show-at-plant-moon-mars-challenge/?fbclid=IwAR36YlYfje_kMLPEJw-eJnnzu9fiswfn-1FLrZU32aJyluOpPblcj4fR1p8&fs=e&s=cl)
+
+**Oyster Mushroom grown by the team!**
 
 ![Florida Tech Fungis](Pictures/fungi1.jpg) ![Florida Tech Fungis](Pictures/fungi2.jpg)
 

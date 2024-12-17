@@ -28,7 +28,11 @@ The primary objective of Project DROVER is to design, build, and fly a drone-rov
 The unique dual-mode design of the DROVER opens a new wide range of possibilities for the utilization of technology to positively impact human lives. Its design is easily interchangeable to accommodate different possible versions (for example, to assist agriculture, military operations, search and rescue, and inspection of hazardous areas). 
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
 
-•	Deliverables: SRR (completed), PDR (Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
+Below you can see the full CAD model of the prototype and a WIP of the CFD I worked on for the propellers.
+![DROVER](Pictures/DROVER.jpg)
+![CFD Model of the propellers (work in progress)](Pictures/prop_try2_velocity.png)
+
+•	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
 
 
 

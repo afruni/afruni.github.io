@@ -90,10 +90,20 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 •	Deliverables: Taxonomy Topic Interest, Quad Chart, Org Chart, Shell Doc, Proposal, Review Panel
 
 ## Others
-### Space Vehicle Control Final Project (_Fall 2024_)
+### Space Vehicle Control Class - Final Project (_Fall 2024_)
 The objective of this project was to design the Attitude Determination and the Control System of a space vehicle simulating the Early Orbit Phase of a Medium Earth Orbit. The space vehicle had to detumble within its first ten orbits, and its angular velocity (𝜔) had to reduce to less than 0.2 RPMs. Once de-tumbled, the space vehicle had to rotate so that its −𝑏3 vector pointed to the center of the Earth for better communications. Finally, the space vehicle also had to align its 𝑏 2 vector with the velocity vector.  The only components available for the project were up to three Magnetorquers (MTQ) with a maximum of 500 mA each, up to five Reaction Wheels (RW), and three sensors: a magnetometer, a sun sensor, and a gyro. 
 
 [Read the whole project document here](Docs/SVC%20Project%20-%20Afruni.pdf)
+
+![SatsAnimation](Pictures/animation%201.png)
+
+### Aerospace Computational Techniques Class - Final Project (_Spring 2024_)
+The objective of this project is to simulate the uneven Martian terrain to demonstrate the capability of a drone to navigate through an unexplored environment. The UAV Toolbox in MATLAB provides the necessary tools to design, simulate, and test unmanned aerial vehicles (UAVs) and advanced air mobility (AAM) applications. Key features of the toolbox include designing flight controllers, developing autonomy algorithms, and planning UAV missions. 
+Note: the names of my teammates have been redacted for privacy reasons.
+
+[Read the whole project document here](Docs/ACT%20Project_Final_namesredacted.pdf)
+
+![Figures](Pictures/ACT_project_figures.png)
 
 ### Mars Plant Challenge (_Fall 2021 - Spring 2022_)
 Although my studies are more focused on airplanes and rockets, I am aware of the importance of all STEM subjects to space exploration. At Florida Tech, I have been very active in the Astrobiological Research and Education Society (ARES), where I have been part of a team of undergraduate students who managed to grow Oyster mushrooms in simulant Martian regolith, with the main objective to understand how to feed a crew in space, maximize resources, and forward all research to NASA’s lunar program Artemis. The team, the “Florida Tech Fungis”, won “Best Plant Growth”, “Most Innovative Experiment”, and “Best Evaluation Results” prizes in the professional division of the competition. 

@@ -133,6 +133,10 @@ Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-
 
 
 ## Achievements & Funding
+
+- **Tau Beta Pi Honors Society**	_2023 – Present_
+Honored for academic excellence, for ranking among the **top 1/8 of the junior class** and **top 1/5 of the senior class** at F.I.T.
+
 - **Dean’s List** (Florida Tech) _2022 – Present_
   
 Recognized for maintaining high academic performance

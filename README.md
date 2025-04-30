@@ -3,15 +3,18 @@
 ## 📌 Quick Navigation
 
 - [🎓 Education & Background](#education)
+- [🤖 DROVER - My Senior Design Project](#Current-Main-Project)
+- [📖 Research](#research-experience)
 - [🛠 Undergrad Projects](#others)
 - [🚁 Internships](#work-experience)
-- [🚀 Research & Programs](#workforce-developments--summer-schools)
+- [🚀 Additional Experience](#workforce-developments--summer-schools)
 - [🏅 Honors & Scholarships](#achievements--funding)
 
 ## Education
 - B.S. Aerospace Engineering, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
-- M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_) **Update!! I have committed to Yale University! Where for the nine months starting August '25 I will be studying for my Master's in Mechanical Engineering!
+- M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_) 
+  **Update!! I have committed to Yale University! Where for the nine months starting August '25 I will be studying for my Master's in Mechanical Engineering!**
   
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**
@@ -32,13 +35,30 @@ WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & 
 
 ## Current Main Project: 
 ### Project DROVER (Drone Rover Operations on Versatile Extra-hazardous Regions)
+![DROVER](Pictures/DROVER_Patch.jpg)
 The primary objective of Project DROVER is to design, build, and fly a drone-rover hybrid prototype designed to enhance search and rescue operations capable of aerial and terrestrial navigation to locate and assist people in distress. This prototype will demonstrate the unique capability to land and drive when traversal via flying is not possible. Additionally, the vehicle will showcase the ability to execute turning maneuvers while airborne and land at an inclined angle. This hybrid vehicle holds the potential to revolutionize search and rescue operations by harnessing the energy efficiency of a rover combined with the agile air mobility of a drone. 
 The unique dual-mode design of the DROVER opens a new wide range of possibilities for the utilization of technology to positively impact human lives. Its design is easily interchangeable to accommodate different possible versions (for example, to assist agriculture, military operations, search and rescue, and inspection of hazardous areas). 
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
 
-Below you can see the full CAD model of the prototype and a WIP of the CFD I worked on for the propellers.
-![DROVER](Pictures/DROVER.jpg)
-![CFD Model of the propellers (work in progress)](Pictures/prop_try2_velocity.png)
+There are some important electronics to mention that help DROVER with the mission:
+ * _FPV Camera & IR Camera_: the first is the eyes of the pilot and helps navigating DROVER as well as locating the potential victims, the second is to help pilot and DROVER locating potential rescuees trapped under rubble or debris.
+ * _Microphone & Speaker_: DROVER is equipped with microphone and speaker to be able to engage in a two-way communication with the potential person in distress.
+ * _Payload_: on the back of DROVER is possible to attach a small payload up to 600g, this is to manage to transport items like a 0.5L water bottle, medication, food, etc.
+
+DROVER can be considered an overall success, as all its objectives were achieved!
+These are some testing examples DROVER underwent:
+ - Tested live video feed of FPV camera and IR camera during operations. 
+ - Established 2-way verbal communication. 
+ - Tested flying and driving capabilities of the prototype independently and combined. 
+ - Completed obstacle course with 600g payload, featuring 20° inclines and diverse terrains. 
+ - Implemented automatic landing failsafe in case of controller signal lost and low system battery. 
+ - Conducted endurance test resulting in a 15-minute hover time.
+
+[**MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
+
+Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, 
+![DROVER](Pictures/DSC_2929.JPG)
+![CFD Model of the propellers](Pictures/prop_try2_velocity.png)
 
 •	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
 

@@ -127,6 +127,26 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 •	Deliverables: Taxonomy Topic Interest, Quad Chart, Org Chart, Shell Doc, Proposal, Review Panel
 
 ## Others
+
+### Computer Aided Engineering - Final Project (_Spring 2025_)
+Objectives:
+You are the owner of a small engineering firm bidding on a NASA SBIR project. The objective of the project is to design a hand-operated cutting tool that is able to cut a 30-mm diameter cable by applying a 500 N normal force at the cutting blade. The tool must be compact enough to fit in a box with dimensions 40 cm x 10 cm x 5 cm. You are free to use any design that meets these constraints. Your design will compete against other bidding firms’ designs, and the contract will be awarded based on evaluation criteria such as: (a) minimum weight, (b) compactness, and (c) minimum cost. 
+Design requirements:
+The cutting tools must: 
+• Be capable of applying a 500 N normal force onto a 30-mm diameter cable using no more than 45 N applied force (your hands) 
+• Fit within a 40 cm x 10 cm x 5 cm storage box when fully assembled. 
+• Require no more than two hands to operate in a zero-gravity environment. 
+• Have no more than a 20° angle between the jaws when the 30-mm cable is placed between the jaws. 
+
+Read our Final Report [HERE](Docs/MEE3024_PROJECTREPORT_AFRUNI_BERADUCCI_KINKADE.pdf)
+
+Pliers fully extended:
+![Thetool1](Pictures/pliers-fully-ext-drawing-wcable.png)
+
+Pliers retracted:
+![Thetool2](Pictures/![Thetool1](Pictures/pliers-fully-ext-drawing-wcable.png)
+
+
 ### Space Vehicle Control Class - Final Project (_Fall 2024_)
 The objective of this project was to design the Attitude Determination and the Control System of a space vehicle simulating the Early Orbit Phase of a Medium Earth Orbit. The space vehicle had to detumble within its first ten orbits, and its angular velocity (𝜔) had to reduce to less than 0.2 RPMs. Once de-tumbled, the space vehicle had to rotate so that its −𝑏3 vector pointed to the center of the Earth for better communications. Finally, the space vehicle also had to align its 𝑏 2 vector with the velocity vector.  The only components available for the project were up to three Magnetorquers (MTQ) with a maximum of 500 mA each, up to five Reaction Wheels (RW), and three sensors: a magnetometer, a sun sensor, and a gyro. 
 

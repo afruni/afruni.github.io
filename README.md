@@ -33,7 +33,7 @@ Team-work, Project Management, Communication, Problem Solving, Adaptability
 
 WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & Astronautics), ARES (Astrobiological Research & Education Society)
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Current Main Project 
 ### Project DROVER (Drone Rover Operations on Versatile Extra-hazardous Regions)
@@ -82,7 +82,7 @@ Below you can see picures of DROVER in action while testing, some CFD analysis o
 
 •	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Research Experience
 ### Project ASTTRO (Astronomy Space Telescope Thermal Research and Optimization) (_November 2023 - August 2024_)
@@ -100,7 +100,7 @@ Engaging in research has proven to be an exceptional experience. The practical a
 ### RedHouse Project – Dr. Andrew Palmer Laboratory (_September 2021 – May 2022_)
 I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where I tended to tomato plants grown in conditions that emulated the ones humans would have to face while farming on Mars; the experiment was so successful that Heinz Tomato Ketchup created a limited run of prototype [bottles “Marz Edition”](https://news.fit.edu/academics-research/heinz-marz-edition-ketchup-made-possible-by-florida-tech-science/) from the crops.
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Work Experience
 ### Leonardo Helicopters Intern – AWPC, Philadelphia, PA (_May 2024 – Aug 2024_)
@@ -116,7 +116,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 
 ![AW609 Picture Signed by team](Pictures/InternshipPoster.jpg)
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Workforce Developments & Summer Schools
 ### NASA Mission Concept Academy (_Jan 2024 – May 2024_)
@@ -140,7 +140,7 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 
 •	Deliverables: Taxonomy Topic Interest, Quad Chart, Org Chart, Shell Doc, Proposal, Review Panel
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Others
 
@@ -213,7 +213,7 @@ Modeled a Menzi Muck for CAD class project with CREO PTC.
 I wrote about space companies that are solving challenges on Earth.
 Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-from-earth-to-space/r/reck294Al2G1J3Dnv) about Leonardo (for which I would go intern two years later!
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Achievements & Funding
 
@@ -252,5 +252,4 @@ Recipient of the **$1,300** Scholarship for good academic standing (GPA > 3.75) 
   
 ![Francesca at European Championships](Pictures/euros1.JPG) ![Francesca at European Championships](Pictures/euros2.JPG)
 
-<p><a href="#quick-navigation" style="text-decoration: none;"><button>🔝 Back to Quick Navigation</button></a></p>
-
+[🔝 Back to Quick Navigation](#quick-navigation)

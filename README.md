@@ -144,7 +144,7 @@ Pliers fully extended:
 ![Thetool1](Pictures/pliers-fully-ext-drawing-wcable.png)
 
 Pliers retracted:
-![Thetool2](Pictures/![Thetool1](Pictures/pliers-fully-ext-drawing-wcable.png)
+![Thetool2](Pictures/PLIERS-WITH-CABLE-DRAWING.png)
 
 
 ### Space Vehicle Control Class - Final Project (_Fall 2024_)

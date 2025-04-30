@@ -63,7 +63,6 @@ Below you can see picures of DROVER in action while testing, some CFD analysis o
 ![CFD Model of the propellers](Pictures/Picture1-CFD.png)
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-Front.png)
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-back.png)
-![CFD Model of the propellers](Pictures/graph)
 ![IRCAMERA](Pictures/IR%20cam%20inside.png)
 ![poster](Pictures/SHOWCASE_SPRING2025_POSTER_AEE_DROVER.png)
 

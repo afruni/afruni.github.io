@@ -41,24 +41,33 @@ The unique dual-mode design of the DROVER opens a new wide range of possibilitie
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
 
 There are some important electronics to mention that help DROVER with the mission:
+
  • _FPV Camera & IR Camera_: the first is the eyes of the pilot and helps navigating DROVER as well as locating the potential victims, the second is to help pilot and DROVER locating potential rescuees trapped under rubble or debris.
+ 
  • _Microphone & Speaker_: DROVER is equipped with microphone and speaker to be able to engage in a two-way communication with the potential person in distress.
+ 
  • _Payload_: on the back of DROVER is possible to attach a small payload up to 600g, this is to manage to transport items like a 0.5L water bottle, medication, food, etc.
 
 DROVER can be considered an overall success, as all its objectives were achieved!
 These are some testing examples DROVER underwent:
+
  • Tested live video feed of FPV camera and IR camera during operations. 
+ 
  • Established 2-way verbal communication. 
- • Tested flying and driving capabilities of the prototype independently and combined. 
+ 
+ • Tested flying and driving capabilities of the prototype independently and combined.
+ 
  • Completed obstacle course with 600g payload, featuring 20° inclines and diverse terrains. 
+ 
  • Implemented automatic landing failsafe in case of controller signal lost and low system battery. 
+ 
  • Conducted endurance test resulting in a 15-minute hover time.
 
 Read our Final Report [HERE](Docs/DROVER_FINAL_REPORT.pdf)
 
-[**MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
+[**CLICK HERE FOR MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
 
-Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, 
+Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, and the poster that was presented at showcase!
 ![DROVER](Pictures/DSC_2929.JPG)
 ![CFD Model of the propellers](Pictures/Picture1-CFD.png)
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-Front.png)
@@ -129,14 +138,23 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 ## Others
 
 ### Computer Aided Engineering - Final Project (_Spring 2025_)
-Objectives:
+*Objectives*:
+
 You are the owner of a small engineering firm bidding on a NASA SBIR project. The objective of the project is to design a hand-operated cutting tool that is able to cut a 30-mm diameter cable by applying a 500 N normal force at the cutting blade. The tool must be compact enough to fit in a box with dimensions 40 cm x 10 cm x 5 cm. You are free to use any design that meets these constraints. Your design will compete against other bidding firms’ designs, and the contract will be awarded based on evaluation criteria such as: (a) minimum weight, (b) compactness, and (c) minimum cost. 
-Design requirements:
+
+
+*Design requirements*:
+
 The cutting tools must: 
+
 • Be capable of applying a 500 N normal force onto a 30-mm diameter cable using no more than 45 N applied force (your hands) 
+
 • Fit within a 40 cm x 10 cm x 5 cm storage box when fully assembled. 
+
 • Require no more than two hands to operate in a zero-gravity environment. 
+
 • Have no more than a 20° angle between the jaws when the 30-mm cable is placed between the jaws. 
+
 
 Read our Final Report [HERE](Docs/MEE3024_PROJECTREPORT_AFRUNI_BERADUCCI_KINKADE.pdf)
 

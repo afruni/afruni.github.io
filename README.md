@@ -3,7 +3,7 @@
 ## 📌 Quick Navigation
 
 - [🎓 Education & Background](#education)
-- [🤖 DROVER - My Senior Design Project](#Current-Main-Project)
+- [🤖 DROVER - My Senior Design Project](#Current-Main-Project:)
 - [📖 Research](#research-experience)
 - [🛠 Undergrad Projects](#others)
 - [🚁 Internships](#work-experience)

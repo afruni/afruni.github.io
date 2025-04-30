@@ -55,6 +55,7 @@ These are some testing examples DROVER underwent:
  • Conducted endurance test resulting in a 15-minute hover time.
 
 Read our Final Report [HERE](Docs/DROVER_FINAL_REPORT.pdf)
+
 [**MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
 
 Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, 

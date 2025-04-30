@@ -3,7 +3,7 @@
 ## 📌 Quick Navigation
 
 - [🎓 Education & Background](#education)
-- [🤖 DROVER - My Senior Design Project](#Current-Main-Project:)
+- [🤖 DROVER - My Senior Design Project](#Current-Main-Project)
 - [📖 Research](#research-experience)
 - [🛠 Undergrad Projects](#others)
 - [🚁 Internships](#work-experience)
@@ -33,7 +33,7 @@ Team-work, Project Management, Communication, Problem Solving, Adaptability
 
 WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & Astronautics), ARES (Astrobiological Research & Education Society)
 
-## Current Main Project: 
+## Current Main Project 
 ### Project DROVER (Drone Rover Operations on Versatile Extra-hazardous Regions)
 ![DROVER](Pictures/DROVER%20Patch.png)
 The primary objective of Project DROVER is to design, build, and fly a drone-rover hybrid prototype designed to enhance search and rescue operations capable of aerial and terrestrial navigation to locate and assist people in distress. This prototype will demonstrate the unique capability to land and drive when traversal via flying is not possible. Additionally, the vehicle will showcase the ability to execute turning maneuvers while airborne and land at an inclined angle. This hybrid vehicle holds the potential to revolutionize search and rescue operations by harnessing the energy efficiency of a rover combined with the agile air mobility of a drone. 

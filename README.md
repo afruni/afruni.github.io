@@ -35,7 +35,7 @@ WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & 
 
 ## Current Main Project: 
 ### Project DROVER (Drone Rover Operations on Versatile Extra-hazardous Regions)
-![DROVER](Pictures/DROVER_Patch.png)
+![DROVER](Pictures/DROVER%20Patch.png)
 The primary objective of Project DROVER is to design, build, and fly a drone-rover hybrid prototype designed to enhance search and rescue operations capable of aerial and terrestrial navigation to locate and assist people in distress. This prototype will demonstrate the unique capability to land and drive when traversal via flying is not possible. Additionally, the vehicle will showcase the ability to execute turning maneuvers while airborne and land at an inclined angle. This hybrid vehicle holds the potential to revolutionize search and rescue operations by harnessing the energy efficiency of a rover combined with the agile air mobility of a drone. 
 The unique dual-mode design of the DROVER opens a new wide range of possibilities for the utilization of technology to positively impact human lives. Its design is easily interchangeable to accommodate different possible versions (for example, to assist agriculture, military operations, search and rescue, and inspection of hazardous areas). 
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
@@ -54,6 +54,7 @@ These are some testing examples DROVER underwent:
  • Implemented automatic landing failsafe in case of controller signal lost and low system battery. 
  • Conducted endurance test resulting in a 15-minute hover time.
 
+Read our Final Report [HERE](Docs/DROVER_FINAL_REPORT.pdf)
 [**MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
 
 Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, 
@@ -62,7 +63,7 @@ Below you can see picures of DROVER in action while testing, some CFD analysis o
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-Front.png)
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-back.png)
 ![CFD Model of the propellers](Pictures/graph)
-![IRCAMERA](Pictures/IR_cam_inside.png)
+![IRCAMERA](Pictures/IR%20cam%20inside.png)
 ![poster](Pictures/SHOWCASE_SPRING2025_POSTER_AEE_DROVER.png)
 
 

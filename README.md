@@ -15,7 +15,7 @@
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
 
-  **Update!! I have committed to Yale University! Where for the nine months starting August '25 I will be studying for my Master's in Mechanical Engineering!**
+  **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering!**
   
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**

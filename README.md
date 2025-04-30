@@ -1,9 +1,17 @@
 <h1 align="center"> Digital Portfolio 🚀</h1>
 
+## 📌 Quick Navigation
+
+- [🎓 Education & Background](#education)
+- [🛠 Undergrad Projects](#others)
+- [🚁 Internships](#work-experience)
+- [🚀 Research & Programs](#workforce-developments--summer-schools)
+- [🏅 Honors & Scholarships](#achievements--funding)
+
 ## Education
 - B.S. Aerospace Engineering, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
-- _Graduate School loading..._
+- M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_) **Update!! I have committed to Yale University! Where for the nine months starting August '25 I will be studying for my Master's in Mechanical Engineering!
   
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**

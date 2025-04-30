@@ -41,24 +41,32 @@ The unique dual-mode design of the DROVER opens a new wide range of possibilitie
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
 
 There are some important electronics to mention that help DROVER with the mission:
- * _FPV Camera & IR Camera_: the first is the eyes of the pilot and helps navigating DROVER as well as locating the potential victims, the second is to help pilot and DROVER locating potential rescuees trapped under rubble or debris.
- * _Microphone & Speaker_: DROVER is equipped with microphone and speaker to be able to engage in a two-way communication with the potential person in distress.
- * _Payload_: on the back of DROVER is possible to attach a small payload up to 600g, this is to manage to transport items like a 0.5L water bottle, medication, food, etc.
+ • _FPV Camera & IR Camera_: the first is the eyes of the pilot and helps navigating DROVER as well as locating the potential victims, the second is to help pilot and DROVER locating potential rescuees trapped under rubble or debris.
+ • _Microphone & Speaker_: DROVER is equipped with microphone and speaker to be able to engage in a two-way communication with the potential person in distress.
+ • _Payload_: on the back of DROVER is possible to attach a small payload up to 600g, this is to manage to transport items like a 0.5L water bottle, medication, food, etc.
 
 DROVER can be considered an overall success, as all its objectives were achieved!
 These are some testing examples DROVER underwent:
- - Tested live video feed of FPV camera and IR camera during operations. 
- - Established 2-way verbal communication. 
- - Tested flying and driving capabilities of the prototype independently and combined. 
- - Completed obstacle course with 600g payload, featuring 20° inclines and diverse terrains. 
- - Implemented automatic landing failsafe in case of controller signal lost and low system battery. 
- - Conducted endurance test resulting in a 15-minute hover time.
+ • Tested live video feed of FPV camera and IR camera during operations. 
+ • Established 2-way verbal communication. 
+ • Tested flying and driving capabilities of the prototype independently and combined. 
+ • Completed obstacle course with 600g payload, featuring 20° inclines and diverse terrains. 
+ • Implemented automatic landing failsafe in case of controller signal lost and low system battery. 
+ • Conducted endurance test resulting in a 15-minute hover time.
 
 [**MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
 
 Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, 
 ![DROVER](Pictures/DSC_2929.JPG)
-![CFD Model of the propellers](Pictures/prop_try2_velocity.png)
+![CFD Model of the propellers](Pictures/Picture1-CFD.png)
+![CFD Model of the propellers](Pictures/Picture2-Pressure-Front.png)
+![CFD Model of the propellers](Pictures/Picture2-Pressure-back.png)
+![CFD Model of the propellers](Pictures/graph)
+![IRCAMERA](Pictures/IR_cam_inside.png)
+![poster](Pictures/SHOWCASE_SPRING2025_POSTER_AEE_DROVER.png)
+
+
+
 
 •	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
 

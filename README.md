@@ -1,6 +1,6 @@
 <h1 align="center"> Francesca's Digital Portfolio 🚀</h1>
 
-## 📌 Quick Navigation
+## Quick Navigation
 
 - [🎓 Education & Background](#education)
 - [🤖 DROVER - My Senior Design Project](#current-main-project)

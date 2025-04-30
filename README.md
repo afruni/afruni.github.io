@@ -1,4 +1,4 @@
-<h1 align="center"> Digital Portfolio 🚀</h1>
+<h1 align="center"> Francesca's Digital Portfolio 🚀</h1>
 
 ## 📌 Quick Navigation
 

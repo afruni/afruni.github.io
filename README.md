@@ -11,16 +11,16 @@
 - [🏅 Honors & Scholarships](#achievements--funding)
 
 ## Education
-- B.S. Aerospace Engineering, Florida Institute of Tecnhology, USA (_May 2025_)
+- B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
 
-  **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering!**
+  **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering! Go Bulldogs 🐶**
   
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**
 
-Creo PTC, Fusion 360, NX Siemens, MATLAB, Simulink, Python, C++, MS Office, 3D Printing, Laser Cutting, Soldering
+Creo PTC, Fusion 360, NX, ANSYS Fluent, ANSYS APDL, ANSYS Workbench (Static Structural), MATLAB, Simulink, Python, MS Office, 3D Printing, Laser Cutting, Soldering
 
 **Languages**
 
@@ -43,7 +43,7 @@ The primary objective of Project DROVER is to design, build, and fly a drone-rov
 The unique dual-mode design of the DROVER opens a new wide range of possibilities for the utilization of technology to positively impact human lives. Its design is easily interchangeable to accommodate different possible versions (for example, to assist agriculture, military operations, search and rescue, and inspection of hazardous areas). 
 This particular version will be focused on search and rescue operations, which often struggle with limited accessibility and time constraints. The DROVER will address these issues by providing quick and versatile navigation through both air and land. This version of DROVER targets emergency response units, including fire departments, search and rescue teams, and disaster relief organizations, aiming to improve their operational efficiency and effectiveness in challenging terrains. 
 
-There are some important electronics to mention that help DROVER with the mission:
+There are some important features to mention that help DROVER with the mission:
 
  • _FPV Camera & IR Camera_: the first is the eyes of the pilot and helps navigating DROVER as well as locating the potential victims, the second is to help pilot and DROVER locating potential rescuees trapped under rubble or debris.
  
@@ -66,9 +66,9 @@ These are some testing examples DROVER underwent:
  
  • Conducted endurance test resulting in a 15-minute hover time.
 
-Read our Final Report [HERE](Docs/DROVER_FINAL_REPORT.pdf)
+Read our **Final Report** [**HERE**](Docs/DROVER_FINAL_REPORT.pdf)
 
-[**CLICK HERE FOR MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
+**FOR MORE ABOUT DROVER ON THE FLORIDA TECH SENIOR DESIGN SHOWCASE PAGE** [**CLICK HERE**](https://www.fit.edu/student-design-showcase/showcase-2025/aerospace-physics-and-space-sciences/)
 
 Below you can see picures of DROVER in action while testing, some CFD analysis of the propellers I personally completed, an example output from the IR camera, and the poster that was presented at showcase!
 ![DROVER](Pictures/DSC_2929.JPG)
@@ -81,7 +81,7 @@ Below you can see picures of DROVER in action while testing, some CFD analysis o
 
 
 
-•	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (Apr. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (Apr. 2025)
+•	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (completed Feb. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (completed Apr. 2025)
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
@@ -218,28 +218,29 @@ Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-
 
 ## Achievements & Funding
 
-- **Tau Beta Pi Honors Society**	_2023 – Present_
-Honored for academic excellence, for ranking among the **top 1/8 of the junior class** and **top 1/5 of the senior class** at F.I.T.
+- **Tau Beta Pi Honors Society**	[_2023 – Present_]
 
-- **Dean’s List** (Florida Tech) _2022 – Present_
+  Honored for academic excellence, for ranking among the **top 1/8 of the junior class** and **top 1/5 of the senior class** at F.I.T.
+
+- **Dean’s List** (Florida Tech) [_2022 – Present_]
   
-Recognized for maintaining high academic performance
+  Recognized for maintaining high academic performance
 
-- **Distinguished Student Scholar** (Florida Tech) _April 2024_
+- **Distinguished Student Scholar** (Florida Tech) [_April 2024_]
   
-The distinguished student scholars are undergraduate students who have completed more than 55 credit hours at Florida Tech with cumulative GPAs of 3.8/4.0 or higher
+  The distinguished student scholars are undergraduate students who have completed more than 55 credit hours at Florida Tech with cumulative GPAs of 3.8/4.0 or higher
 
-- **Outstanding Student of the Year** – Department of Aerospace, Physics, and Space Sciences (Florida Tech) _April 2024_
+- **Outstanding Student of the Year** – Department of Aerospace, Physics, and Space Sciences (Florida Tech) [_April 2024_]
 
-The awards recognize well-rounded, active student-scholars, selected by their academic units, who have made contributions to their academic program, university, and community
+  The awards recognize well-rounded, active student-scholars, selected by their academic units, who have made contributions to their academic program, university, and community
 
-- **Panther Fund Transfer Scholar Scholarship** (Florida Tech) _August 2021 – May 2025_
+- **Panther Fund Transfer Scholar Scholarship** (Florida Tech) [_August 2021 – May 2025_]
 
-Secured a prestigious **$40,000** scholarship, granted over four years, in recognition of academic excellence and potential
+  Secured a prestigious **$40,000** scholarship, granted over four years, in recognition of academic excellence and potential
 
-- **Oxford Study Abroad Scholarship Award** (Florida Tech) _June – August 2022_
+- **Oxford Study Abroad Scholarship Award** (Florida Tech) [_June – August 2022_]
   
-Recipient of the **$1,300** Scholarship for good academic standing (GPA > 3.75) and leadership
+  Recipient of the **$1,300** Scholarship for good academic standing (GPA > 3.75) and leadership
 
 ### **Professional Full-Time Eventing Rider for Team Italia**
   - **Eventing Team Italia U21** (2018 - 2019)

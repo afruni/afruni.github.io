@@ -13,6 +13,9 @@
 ## Education
 - B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
+ 
+![Graduation](Pictures/AT0AA4950.jpg)
+    
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
 
   **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering! Go Bulldogs 🐶**

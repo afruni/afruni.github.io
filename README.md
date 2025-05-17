@@ -14,7 +14,7 @@
 - B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
  
-![Graduation](Pictures/AT0AA4950.jpg)
+![Graduation](Pictures/FraAtKSC.jpg)
     
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
 

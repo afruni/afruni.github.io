@@ -1,16 +1,16 @@
-title: Francesca Afruni
-logo: Pictures/AT0A3523.jpg
+# title: Francesca Afruni
+# logo: Pictures/AT0A3523.jpg
 
-description: >
-  Welcome! My name is Francesca Afruni, I’m from Italy, and I am a dedicated aerospace engineering student! 
+# description: >
+#   Welcome! My name is Francesca Afruni, I’m from Italy, and I am a dedicated aerospace engineering student! 
   
-  Get in touch: francesca.afruni@yale.edu
-kramdown:
-  input: GFM
-  hard_wrap: false
-  html_to_native: true
+#   Get in touch: francesca.afruni@yale.edu
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   html_to_native: true
 
-linkedin: "https://www.linkedin.com/in/francesca-afruni-147438221/"
-email: "fafruni2021@my.fit.edu"
-url: "https://afruni.github.io"
-theme: jekyll-theme-minimal
+# linkedin: "https://www.linkedin.com/in/francesca-afruni-147438221/"
+# email: "fafruni2021@my.fit.edu"
+# url: "https://afruni.github.io"
+# theme: jekyll-theme-minimal

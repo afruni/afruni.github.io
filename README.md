@@ -18,7 +18,14 @@ Last updated: 17 May 2025
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)
-    
+
+
+<p float="left">
+  <img src="/Pictures/FraAtKSC.jpg" width="100" />
+  <img src="Pictures/AT0A3523.jpg" width="100" /> 
+</p>
+
+
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
 
   **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering! Go Bulldogs 🐶**

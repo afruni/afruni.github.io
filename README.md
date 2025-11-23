@@ -130,6 +130,11 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
+## Grad School Projects
+### Computational - Applied Planning & Optimization
+Currently working on my final project where I'm writing a code that uses the planning algorithm A* to find better and terrain-aware paths for Martian rovers -- stay tuned!
+
+
 ## Work Experience
 ### Leonardo Helicopters Intern – AWPC, Philadelphia, PA (_May 2024 – Aug 2024_)
 •	Worked as an Aircraft System Integration (ASI) Engineering Intern on the Flight Mechanics team of the AW609 (Tilt-Rotor) program
@@ -231,7 +236,7 @@ Modeled a Menzi Muck for CAD class project with CREO PTC.
 ### Freshman Design Project (_Spring 2022_)
 The purpose of this project was to design and build a glider. The requirements included size  (4 ft x 4 ft x 1 ft) and total mass (4.41lb) constraints. A payload bay had to be included for the accommodation of a small object of 43g (included in the total mass of the glider) and size 4 in x 3 in x 5 in. The glider could not include pre-shaped components from any kit, batteries, electronic motors, or any energy source. The materials allowed for the realization of the glider were balsa wood sheets, 3D printing wire, dowel rods, and Expanded Polystyrene Foam. The total budget of the project couldn’t exceed $50.
 
-![Glider Project](Pictures/Freshman Glider CAD.png)
+![Glider Project](Pictures/Freshman-Glider-CAD.png)
 
 ## Other Projects
 

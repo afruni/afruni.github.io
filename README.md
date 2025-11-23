@@ -15,18 +15,9 @@ Last updated: 17 May 2025
 - B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
  
-<!--Solarized dark             |  Solarized Ocean
+Graduation            |  2025
 :-------------------------:|:-------------------------:
-![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)-->
-
-<img src="Pictures/FraAtKSC.jpg" width="200"/> <img src="Pictures/AT0A3523.jpg" width="300"/>
-
-
-
-<p float="left">
-  <img src="/Pictures/FraAtKSC.jpg" width="100" />
-  <img src="Pictures/AT0A3523.jpg" width="100" /> 
-</p>
+![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)
 
 
 - M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)

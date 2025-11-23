@@ -8,7 +8,7 @@ Last updated: 23 November 2025
 - [🤖 DROVER - My Senior Design Project](#senior-design-project)
 - [📖 Research](#research-experience)
 - [🎯Grad School Projects](#grad-school-projects)
-    - [Computational - Applied Planning & Optimization](#computational-applied-planning--optimization-projects)
+    - [Computational - Applied Planning & Optimization](#computational-applied-planning--optimization)
 - [🛠 Undergrad Projects](#undergrad-projects)
     - [Computational Projects](#computational-projects)
     - [CAD & ANSYS Projects](#cad-and-ansys-projects)
@@ -137,6 +137,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 ### Computational: Applied Planning & Optimization
 Currently working on my final project where I'm writing a code that uses the planning algorithm A* to find better and terrain-aware paths for Martian rovers -- stay tuned!
 
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Work Experience
 ### Leonardo Helicopters Intern – AWPC, Philadelphia, PA (_May 2024 – Aug 2024_)
@@ -199,6 +200,8 @@ Note: the names of my teammates have been redacted for privacy reasons.
 
 ![Figures](Pictures/ACT_project_figures.png)
 
+[🔝 Back to Quick Navigation](#quick-navigation)
+
 ### CAD and ANSYS Projects
 
 ### Computer Aided Engineering - Final Project (_Spring 2025_)
@@ -240,6 +243,8 @@ Modeled a Menzi Muck for CAD class project with CREO PTC.
 The purpose of this project was to design and build a glider. The requirements included size  (4 ft x 4 ft x 1 ft) and total mass (4.41lb) constraints. A payload bay had to be included for the accommodation of a small object of 43g (included in the total mass of the glider) and size 4 in x 3 in x 5 in. The glider could not include pre-shaped components from any kit, batteries, electronic motors, or any energy source. The materials allowed for the realization of the glider were balsa wood sheets, 3D printing wire, dowel rods, and Expanded Polystyrene Foam. The total budget of the project couldn’t exceed $50.
 
 ![Glider Project](Pictures/Freshman-Glider-CAD.png)
+
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Other Projects
 

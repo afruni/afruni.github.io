@@ -16,6 +16,7 @@ Last updated: 17 May 2025
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
  
 <!-- ![Graduation](Pictures/FraAtKSC.jpg) -->
+                           |  
 :-------------------------:|:-------------------------:
 ![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)
     

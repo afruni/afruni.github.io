@@ -19,7 +19,8 @@ Last updated: 17 May 2025
 :-------------------------:|:-------------------------:
 ![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)-->
 
-![alt-text-1](Pictures/FraAtKSC.jpg) ![alt-text-2](Pictures/AT0A3523.jpg)
+<img src="Pictures/FraAtKSC.jpg" width="200"/> <img src="Pictures/AT0A3523.jpg" width="300"/>
+
 
 
 <p float="left">

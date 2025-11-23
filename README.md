@@ -7,7 +7,11 @@ Last updated: 23 November 2025
 - [🎓 Education & Background](#education)
 - [🤖 DROVER - My Senior Design Project](#senior-design-project)
 - [📖 Research](#research-experience)
-- [🛠 Undergrad Projects](#others)
+- [🎯Grad School Projects](#grad-school-projects)
+    - [Computational - Applied Planning & Optimization](#computational-applied-planning--optimization-projects)
+- [🛠 Undergrad Projects](#undergrad-projects)
+    - [Computational Projects](#computational-projects)
+    - [CAD & ANSYS Projects](#cad-and-ansys-projects)
 - [🚁 Internships](#work-experience)
 - [🚀 Additional Experience](#workforce-developments--summer-schools)
 - [🏅 Honors & Scholarships](#achievements--funding)
@@ -35,14 +39,17 @@ Graduation            |  2025
 ![](Pictures/FraAtKSC.jpg)  |  ![](Pictures/AT0A3523.jpg)
 
 
-- M.S. Mechanical Engineering, Yale University, USA (Start Date: _August 2025_)
+- M.S. Mechanical Engineering, Yale University, USA (_August 2025 - Expected: May 2026_)
 
-  **Update!! I have committed to Yale University! Where for the next nine months - starting August '25 - I will be studying for my Master's in Mechanical Engineering! Go Bulldogs 🐶**
+  **Go Bulldogs 🐶**
   
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**
 
-Creo PTC, Fusion 360, NX, ANSYS Fluent, ANSYS APDL, ANSYS Workbench (Static Structural), MATLAB, Simulink, Python, MS Office, 3D Printing, Laser Cutting, Soldering
+*CAD Tools*: Creo PTC, Fusion 360, NX.
+*ANSYS Software*: Fluent, APDL, Workbench (Static Structural).
+*Coding Languages*: MATLAB, Simulink, Python.
+*Others*: MS Office, 3D Printing, Laser Cutting, Soldering.
 
 **Languages**
 
@@ -54,7 +61,7 @@ Team-work, Project Management, Communication, Problem Solving, Adaptability
 
 **Co-curriculars**
 
-WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & Astronautics), ARES (Astrobiological Research & Education Society)
+GradSWE (Society of Women in Engineering) (outreach committee), WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & Astronautics), ARES (Astrobiological Research & Education Society)
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
@@ -99,8 +106,6 @@ Below you can see picures of DROVER in action while testing, some CFD analysis o
 ![CFD Model of the propellers](Pictures/Picture2-Pressure-back.png)
 ![IRCAMERA](Pictures/IR%20cam%20inside.png)
 ![poster](Pictures/SHOWCASE_SPRING2025_POSTER_AEE_DROVER.png)
-
-
 
 
 •	Deliverables: SRR (completed), PDR (completed Dec. 2024), CDR (completed Feb. 2025), _Poster and Presentation_ at the Northrop Grumman Engineering & Science Student Design Showcase (completed Apr. 2025)
@@ -167,7 +172,26 @@ NASA Proposal Writing and Evaluation Experience Academy (NPWEE), a four-month wo
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
-## Others
+## Undergrad Projects
+
+### Computational Projects
+
+### Space Vehicle Control Class - Final Project (_Fall 2024_)
+The objective of this project was to design the Attitude Determination and the Control System of a space vehicle simulating the Early Orbit Phase of a Medium Earth Orbit. The space vehicle had to detumble within its first ten orbits, and its angular velocity (𝜔) had to reduce to less than 0.2 RPMs. Once de-tumbled, the space vehicle had to rotate so that its −𝑏3 vector pointed to the center of the Earth for better communications. Finally, the space vehicle also had to align its 𝑏 2 vector with the velocity vector.  The only components available for the project were up to three Magnetorquers (MTQ) with a maximum of 500 mA each, up to five Reaction Wheels (RW), and three sensors: a magnetometer, a sun sensor, and a gyro. 
+
+[Read the whole project document here](Docs/SVC%20Project%20-%20Afruni.pdf)
+
+![SatsAnimation](Pictures/animation%201.png)
+
+### Aerospace Computational Techniques Class - Final Project (_Spring 2024_)
+The objective of this project is to simulate the uneven Martian terrain to demonstrate the capability of a drone to navigate through an unexplored environment. The UAV Toolbox in MATLAB provides the necessary tools to design, simulate, and test unmanned aerial vehicles (UAVs) and advanced air mobility (AAM) applications. Key features of the toolbox include designing flight controllers, developing autonomy algorithms, and planning UAV missions. 
+Note: the names of my teammates have been redacted for privacy reasons.
+
+[Read the whole project document here](Docs/ACT%20Project_Final_namesredacted.pdf)
+
+![Figures](Pictures/ACT_project_figures.png)
+
+### CAD and ANSYS Projects
 
 ### Computer Aided Engineering - Final Project (_Spring 2025_)
 *Objectives*:
@@ -197,20 +221,19 @@ Pliers retracted:
 ![Thetool2](Pictures/PLIERS-WITH-CABLE-DRAWING.png)
 
 
-### Space Vehicle Control Class - Final Project (_Fall 2024_)
-The objective of this project was to design the Attitude Determination and the Control System of a space vehicle simulating the Early Orbit Phase of a Medium Earth Orbit. The space vehicle had to detumble within its first ten orbits, and its angular velocity (𝜔) had to reduce to less than 0.2 RPMs. Once de-tumbled, the space vehicle had to rotate so that its −𝑏3 vector pointed to the center of the Earth for better communications. Finally, the space vehicle also had to align its 𝑏 2 vector with the velocity vector.  The only components available for the project were up to three Magnetorquers (MTQ) with a maximum of 500 mA each, up to five Reaction Wheels (RW), and three sensors: a magnetometer, a sun sensor, and a gyro. 
+### Menzi Muck CAD Modeling (_Fall 2023_)
+Modeled a Menzi Muck for CAD class project with CREO PTC.
 
-[Read the whole project document here](Docs/SVC%20Project%20-%20Afruni.pdf)
+[More Details Here](Docs/MEE2024_FinalProject_Group4.pdf)
 
-![SatsAnimation](Pictures/animation%201.png)
+![Solids Modeling Project](Pictures/menzimuck.png)
 
-### Aerospace Computational Techniques Class - Final Project (_Spring 2024_)
-The objective of this project is to simulate the uneven Martian terrain to demonstrate the capability of a drone to navigate through an unexplored environment. The UAV Toolbox in MATLAB provides the necessary tools to design, simulate, and test unmanned aerial vehicles (UAVs) and advanced air mobility (AAM) applications. Key features of the toolbox include designing flight controllers, developing autonomy algorithms, and planning UAV missions. 
-Note: the names of my teammates have been redacted for privacy reasons.
+### Freshman Design Project (_Spring 2022_)
+The purpose of this project was to design and build a glider. The requirements included size  (4 ft x 4 ft x 1 ft) and total mass (4.41lb) constraints. A payload bay had to be included for the accommodation of a small object of 43g (included in the total mass of the glider) and size 4 in x 3 in x 5 in. The glider could not include pre-shaped components from any kit, batteries, electronic motors, or any energy source. The materials allowed for the realization of the glider were balsa wood sheets, 3D printing wire, dowel rods, and Expanded Polystyrene Foam. The total budget of the project couldn’t exceed $50.
 
-[Read the whole project document here](Docs/ACT%20Project_Final_namesredacted.pdf)
+![Glider Project](Pictures/Freshman Glider CAD.png)
 
-![Figures](Pictures/ACT_project_figures.png)
+## Other Projects
 
 ### Mars Plant Challenge (_Fall 2021 - Spring 2022_)
 Although my studies are more focused on airplanes and rockets, I am aware of the importance of all STEM subjects to space exploration. At Florida Tech, I have been very active in the Astrobiological Research and Education Society (ARES), where I have been part of a team of undergraduate students who managed to grow Oyster mushrooms in simulant Martian regolith, with the main objective to understand how to feed a crew in space, maximize resources, and forward all research to NASA’s lunar program Artemis. The team, the “Florida Tech Fungis”, won “Best Plant Growth”, “Most Innovative Experiment”, and “Best Evaluation Results” prizes in the professional division of the competition. 
@@ -222,21 +245,9 @@ Although my studies are more focused on airplanes and rockets, I am aware of the
 
 ![Florida Tech Fungis](Pictures/fungi1.jpg) ![Florida Tech Fungis](Pictures/fungi2.jpg)
 
-### Freshman Design Project (_Spring 2022_)
-The purpose of this project was to design and build a glider. The requirements included size  (4 ft x 4 ft x 1 ft) and total mass (4.41lb) constraints. A payload bay had to be included for the accommodation of a small object of 43g (included in the total mass of the glider) and size 4 in x 3 in x 5 in. The glider could not include pre-shaped components from any kit, batteries, electronic motors, or any energy source. The materials allowed for the realization of the glider were balsa wood sheets, 3D printing wire, dowel rods, and Expanded Polystyrene Foam. The total budget of the project couldn’t exceed $50.
-
-![Glider Project](Pictures/Freshman Glider CAD.png)
-
-### Menzi Muck CAD Modeling (_Fall 2023_)
-Modeled a Menzi Muck for CAD class project with CREO PTC.
-
-[More Details Here](Docs/MEE2024_FinalProject_Group4.pdf)
-
-![Solids Modeling Project](Pictures/menzimuck.png)
-
 ### Space Ambassador (_Spring 2021_)
 I wrote about space companies that are solving challenges on Earth.
-Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-from-earth-to-space/r/reck294Al2G1J3Dnv) about Leonardo (for which I would go intern two years later!
+Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-from-earth-to-space/r/reck294Al2G1J3Dnv) about Leonardo (for which I would go intern two years later!)
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
@@ -246,7 +257,7 @@ Here's one of my [articles](https://www.spaceisforyou.com/blog-details/leonardo-
 
   Honored for academic excellence, for ranking among the **top 1/8 of the junior class** and **top 1/5 of the senior class** at F.I.T.
 
-- **Dean’s List** (Florida Tech) [_2022 – Present_]
+- **Dean’s List** (Florida Tech) [_2022 – 2025_]
   
   Recognized for maintaining high academic performance
 

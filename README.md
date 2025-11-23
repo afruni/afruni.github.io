@@ -1,4 +1,4 @@
-<h1 align="center"> Francesca's Digital Portfolio 🚀</h1>
+<!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
 Last updated: 17 May 2025
 ## Quick Navigation

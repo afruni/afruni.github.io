@@ -47,8 +47,11 @@ Graduation            |  2025
 **Engineering Skills**
 
 *CAD Tools*: Creo PTC, Fusion 360, NX.
+
 *ANSYS Software*: Fluent, APDL, Workbench (Static Structural).
+
 *Coding Languages*: MATLAB, Simulink, Python.
+
 *Others*: MS Office, 3D Printing, Laser Cutting, Soldering.
 
 **Languages**
@@ -131,7 +134,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Grad School Projects
-### Computational - Applied Planning & Optimization
+### Computational: Applied Planning & Optimization
 Currently working on my final project where I'm writing a code that uses the planning algorithm A* to find better and terrain-aware paths for Martian rovers -- stay tuned!
 
 

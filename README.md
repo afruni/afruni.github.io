@@ -1,15 +1,32 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
-Last updated: 17 May 2025
+Last updated: 23 November 2025
 ## Quick Navigation
 
+- [🪐About Me](#About-Me)
 - [🎓 Education & Background](#education)
-- [🤖 DROVER - My Senior Design Project](#current-main-project)
+- [🤖 DROVER - My Senior Design Project](#senior-design-project)
 - [📖 Research](#research-experience)
 - [🛠 Undergrad Projects](#others)
 - [🚁 Internships](#work-experience)
 - [🚀 Additional Experience](#workforce-developments--summer-schools)
 - [🏅 Honors & Scholarships](#achievements--funding)
+
+
+## About Me
+Hello and welcome to my digital portfolio! 
+
+My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. Since a very young age I have always been fascinated by space and that has led me today to earning my BS in aerospace engineering and currently pursuing a MS in mechanical engineering at Yale University. 
+
+I have served as project manager and principal investigator of my [senior design team](#senior-design-project), and I have hands-on experience with a wide range of computational, coding, and CAD tools ([full list here](#Skills-languages--Co-curriculars). 
+
+My background spaces from [research](#research-experience) to [industry](#work-experience), along with experience in preparing technical deliverables such as PDRs, CDRs, SRRs, etc.
+
+I’m eager to apply my skills, continue growing, and to contribute meaningful work to the future of aerospace and space exploration!
+
+Please, feel free to contact me at francesca.afruni@yale.edu. CV, transcripts, and recommendations available upon request.
+
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Education
 - B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
@@ -43,7 +60,7 @@ WAE (Women in Aerospace Engineering), AIAA (American Institute of Aeronautics & 
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
-## Current Main Project 
+## Senior Design Project 
 ### Project DROVER (Drone Rover Operations on Versatile Extra-hazardous Regions)
 ![DROVER](Pictures/DROVER%20Patch.png)
 The primary objective of Project DROVER is to design, build, and fly a drone-rover hybrid prototype designed to enhance search and rescue operations capable of aerial and terrestrial navigation to locate and assist people in distress. This prototype will demonstrate the unique capability to land and drive when traversal via flying is not possible. Additionally, the vehicle will showcase the ability to execute turning maneuvers while airborne and land at an inclined angle. This hybrid vehicle holds the potential to revolutionize search and rescue operations by harnessing the energy efficiency of a rover combined with the agile air mobility of a drone. 
@@ -128,7 +145,9 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 
 ## Workforce Developments & Summer Schools
 ### NASA Mission Concept Academy (_Jan 2024 – May 2024_)
-Served as **Deputy Project Manager** in a NASA workforce development program focused on mastering exploration mission protocols and industry practices led by NASA professionals. Collaborated with a team to apply professional practices and procedures, enhancing project management skills and understanding of NASA's exploration processes
+Served as **Deputy Project Manager** in a NASA workforce development program focused on mastering exploration mission protocols and industry practices led by NASA professionals. Collaborated with a team to apply professional practices and procedures, enhancing project management skills and understanding of NASA's exploration processes.
+Deliverables: Team Organizational Chart, MCR, SRR, MDR, PDR, PDR Presentation
+
 
 [Read our PDR Here](Docs/PDR%20TEAM%202_MCA.pdf)
 

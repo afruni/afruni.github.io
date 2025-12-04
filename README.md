@@ -1,6 +1,6 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
-Last updated: 23 November 2025
+Last updated: 4 December 2025
 ## Quick Navigation
 
 - [🪐About Me](#About-Me)
@@ -135,7 +135,12 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 
 ## Grad School Projects
 ### Computational: Applied Planning & Optimization
-Currently working on my final project where I'm writing a code that uses the planning algorithm A* to find better and terrain-aware paths for Martian rovers -- stay tuned!
+For my Applied Planning and Optmization class I developed (using Python) a path-planning algorithm that uses A* in order to find the safest path in terms of elevation for martian rovers. In this project I integrated real NASA elevation data by analyzing an orbiter picture of the Jezero crater. The steeper and higher, the more dangerous it is to traverse for the rover, and therefore, the higher the cost will be. I utilized the library "rasterio", which manipulated the image to get the elevation, and then created the figures using the classic "matplotlib". The code runs two different A* applications, a “standard” one, which only accounts for the distance, and a “terrain-aware” one, which implements the terrain-aware cost. 
+
+I have a dedicated page where you can see my full project write up, including Google Colab link for the algorithm, and output figures: 
+[https://www.notion.so/Final-Project-2ad7c2fd6b72804494f5f74c98317863?source=copy_link]
+
+This is just the Google Colab link if you are interested only in the algorithm: [https://colab.research.google.com/drive/1-Pl9fBFVdfNhcafQiDBtkcJlCS_wEYLe?usp=sharing]
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 

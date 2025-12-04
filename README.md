@@ -142,6 +142,8 @@ I have a dedicated page where you can see my full project write up, including Go
 
 This is just the Google Colab link if you are interested only in the algorithm: [https://colab.research.google.com/drive/1-Pl9fBFVdfNhcafQiDBtkcJlCS_wEYLe?usp=sharing]
 
+![Pathplanning](Pictures/SecondFigures.png)
+
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Work Experience

@@ -39,16 +39,32 @@ I’m eager to apply my skills, continue growing, and to contribute meaningful w
 ## Education
 <img src="Pictures/FraAtKSC.jpg"
      style="float:left; width:250px; margin:0 20px 20px 0;">
-     
- <p>    
-- B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
-  - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
 
-- M.S. Mechanical Engineering, Yale University, USA (_August 2025 - Expected: May 2026_)
+<ul>
+  <li>
+    <strong>B.S. Aerospace Engineering with Honors</strong>,
+    Florida Institute of Technology, USA
+    <em>(May 2025)</em>
+    <ul>
+      <li>
+        Study Abroad (Calculus 3 and British Literature),
+        University of Oxford, UK
+        <em>(June 2022 – August 2022)</em>
+      </li>
+    </ul>
+  </li>
 
-  **Go Bulldogs 🐶**
-</p>
+  <li>
+    <strong>M.S. Mechanical Engineering</strong>,
+    Yale University, USA
+    <em>(August 2025 – Expected: May 2026)</em>
+  </li>
+</ul>
+
+<p><strong>Go Bulldogs 🐶</strong></p>
+
 <div style="clear: both;"></div>
+
 
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**

@@ -18,11 +18,17 @@ Last updated: 2 January 2026
 
 
 ## About Me
-<img align="left" src="Pictures/franci_at_KSC.jpg"> Hello and welcome to my digital portfolio! My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. 
-Since a very young age I have always been fascinated by space and that has led me to earning my *BS in aerospace engineering* and currently pursuing a *MS in mechanical engineering* at Yale University. 
-I have served as *project manager and principal investigator* of my [senior design team](#senior-design-project), and I have hands-on experience with a wide range of computational, coding, and CAD tools ([full list here)](#skills-languages--co-curriculars). 
-My background spaces from [research](#research-experience) to [industry](#work-experience), along with experience in preparing technical deliverables such as PDRs, CDRs, SRRs, etc.
+<img src="Pictures/franci_at_KSC.jpg"
+     style="float:left; width:250px; margin:0 20px 20px 0;">
+
+<p>
+Hello and welcome to my digital portfolio! My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA.
+Since a very young age I have always been fascinated by space and that has led me to earning my <em>BS in aerospace engineering</em> and currently pursuing a <em>MS in mechanical engineering</em> at Yale University.
+I have served as <em>project manager and principal investigator</em> of my <a href="#senior-design-project">senior design team</a>, and I have hands-on experience with a wide range of computational, coding, and CAD tools (<a href="#skills-languages--co-curriculars">full list here</a>).
+My background spans from <a href="#research-experience">research</a> to <a href="#work-experience">industry</a>, along with experience in preparing technical deliverables such as PDRs, CDRs, SRRs, etc.
 I’m eager to apply my skills, continue growing, and to contribute meaningful work to the future of aerospace and space exploration!
+</p>
+
 
 --> **Please, feel free to contact me at francesca.afruni@yale.edu. CV, transcripts, and recommendations available upon request.** <--
 

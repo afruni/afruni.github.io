@@ -8,7 +8,7 @@ Last updated: 2 January 2026
 <div style="overflow:auto;">
 
 <img src="Pictures/AT0A3523.jpg"
-     style="float:right; width:290px; margin:0 0 20px 20px;">
+     style="float:right; width:280px; margin:0 0 20px 20px;">
 
 <ul>
   <li><a href="#About-Me">🪐 About Me</a></li>
@@ -40,7 +40,7 @@ Last updated: 2 January 2026
 
 ## About Me
 <img src="Pictures/franci_at_KSC.jpg"
-     style="float:left; width:350px; margin:0 20px 20px 0;">
+     style="float:left; width:380px; margin:0 20px 20px 0;">
 
 <p>Hello and welcome to my digital portfolio!</p>
 

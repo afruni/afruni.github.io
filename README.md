@@ -65,18 +65,22 @@ aerospace and space exploration!
     Florida Institute of Technology, USA
     <em>(May 2025)</em>
     <ul>
+        <p>
           <li>
             Study Abroad (Calculus 3 and British Literature),
             University of Oxford, UK
             <em>(June 2022 – August 2022)</em>
           </li>
+        </p>
     </ul>
   </li>
 
   <li>
+      <p>
     <strong>M.S. Mechanical Engineering</strong>,
     Yale University, USA
     <em>(August 2025 – Expected: May 2026)</em>
+      </p>
   </li>
 </ul>
 

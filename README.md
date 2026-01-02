@@ -1,6 +1,6 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
-Last updated: 4 December 2025
+Last updated: 2 January 2026
 ## Quick Navigation
 
 - [🪐About Me](#About-Me)
@@ -19,7 +19,7 @@ Last updated: 4 December 2025
 
 ## About Me
 Hello and welcome to my digital portfolio! 
-
+<img align="left" src="Pictures/franci_at_KSC.jpg" alt="My Image">
 My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. 
 Since a very young age I have always been fascinated by space and that has led me to earning my *BS in aerospace engineering* and currently pursuing a *MS in mechanical engineering* at Yale University. 
 I have served as *project manager and principal investigator* of my [senior design team](#senior-design-project), and I have hands-on experience with a wide range of computational, coding, and CAD tools ([full list here)](#skills-languages--co-curriculars). 

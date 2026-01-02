@@ -1,24 +1,10 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
 Last updated: 2 January 2026
-<!--## Quick Navigation
-
-- [🪐About Me](#About-Me)
-- [🎓 Education & Background](#education)
-- [🤖 DROVER - My Senior Design Project](#senior-design-project)
-- [📖 Research](#research-experience)
-- [🎯Grad School Projects](#grad-school-projects)
-    - [Computational - Applied Planning & Optimization](#computational-applied-planning--optimization)
-- [🛠 Undergrad Projects](#undergrad-projects)
-    - [Computational Projects](#computational-projects)
-    - [CAD & ANSYS Projects](#cad-and-ansys-projects)
-- [🚁 Internships](#work-experience)
-- [🚀 Additional Experience](#workforce-developments--summer-schools)
-- [🏅 Honors & Scholarships](#achievements--funding) -->
 
 <div style="overflow:auto;">
 
-<img src="Pictures/AT0A4950.jpg"
+<img src="Pictures/AT0A3523.jpg"
      style="float:right; width:220px; margin:0 0 20px 20px;">
 
 <h2>Quick Navigation</h2>

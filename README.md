@@ -2,12 +2,13 @@
 
 Last updated: 2 January 2026
 
+
+<h2>Quick Navigation</h2>
+
 <div style="overflow:auto;">
 
 <img src="Pictures/AT0A3523.jpg"
      style="float:right; width:220px; margin:0 0 20px 20px;">
-
-<h2>Quick Navigation</h2>
 
 <ul>
   <li><a href="#About-Me">🪐 About Me</a></li>

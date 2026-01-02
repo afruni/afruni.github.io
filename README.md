@@ -19,10 +19,11 @@ Last updated: 2 January 2026
 
 ## About Me
 <img src="Pictures/franci_at_KSC.jpg"
-     style="float:left; width:250px; margin:0 20px 20px 0;">
+     style="float:left; width:300px; margin:0 20px 20px 0;">
 
 <p>
-Hello and welcome to my digital portfolio! My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA.
+Hello and welcome to my digital portfolio! 
+My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA.
 Since a very young age I have always been fascinated by space and that has led me to earning my <em>BS in aerospace engineering</em> and currently pursuing a <em>MS in mechanical engineering</em> at Yale University.
 I have served as <em>project manager and principal investigator</em> of my <a href="#senior-design-project">senior design team</a>, and I have hands-on experience with a wide range of computational, coding, and CAD tools (<a href="#skills-languages--co-curriculars">full list here</a>).
 My background spans from <a href="#research-experience">research</a> to <a href="#work-experience">industry</a>, along with experience in preparing technical deliverables such as PDRs, CDRs, SRRs, etc.
@@ -35,10 +36,15 @@ I’m eager to apply my skills, continue growing, and to contribute meaningful w
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Education
+<img src="Pictures/FraAtKSC.jpg"
+     style="float:left; width:250px; margin:0 20px 20px 0;">
+     
+ <p>    
 - B.S. Aerospace Engineering with Honors, Florida Institute of Tecnhology, USA (_May 2025_)
   - Study Abroad (Calculus 3 and British Literature), University of Oxford, UK (_June 2022 - August 2022_)
 
-<img align="left" src="Pictures/FraAtKSC.jpg" alt="My Image">
+
+
 
 <!--
 Graduation            |  2025
@@ -49,7 +55,8 @@ Graduation            |  2025
 - M.S. Mechanical Engineering, Yale University, USA (_August 2025 - Expected: May 2026_)
 
   **Go Bulldogs 🐶**
-  
+</p>
+
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**
 

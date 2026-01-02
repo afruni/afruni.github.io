@@ -8,7 +8,7 @@ Last updated: 2 January 2026
 <div style="overflow:auto;">
 
 <img src="Pictures/AT0A3523.jpg"
-     style="float:right; width:220px; margin:0 0 20px 20px;">
+     style="float:right; width:300px; margin:0 0 20px 20px;">
 
 <ul>
   <li><a href="#About-Me">🪐 About Me</a></li>

@@ -1,7 +1,7 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
 Last updated: 2 January 2026
-## Quick Navigation
+<!--## Quick Navigation
 
 - [🪐About Me](#About-Me)
 - [🎓 Education & Background](#education)
@@ -14,7 +14,41 @@ Last updated: 2 January 2026
     - [CAD & ANSYS Projects](#cad-and-ansys-projects)
 - [🚁 Internships](#work-experience)
 - [🚀 Additional Experience](#workforce-developments--summer-schools)
-- [🏅 Honors & Scholarships](#achievements--funding)
+- [🏅 Honors & Scholarships](#achievements--funding) -->
+
+<div style="overflow:auto;">
+
+<img src="Pictures/AT0A4950.jpg"
+     style="float:right; width:220px; margin:0 0 20px 20px;">
+
+<h2>Quick Navigation</h2>
+
+<ul>
+  <li><a href="#About-Me">🪐 About Me</a></li>
+  <li><a href="#education">🎓 Education &amp; Background</a></li>
+  <li><a href="#senior-design-project">🤖 DROVER – My Senior Design Project</a></li>
+  <li><a href="#research-experience">📖 Research</a></li>
+  <li><a href="#grad-school-projects">🎯 Grad School Projects</a>
+    <ul>
+      <li><a href="#computational-applied-planning--optimization">
+        Computational – Applied Planning &amp; Optimization
+      </a></li>
+    </ul>
+  </li>
+  <li><a href="#undergrad-projects">🛠 Undergrad Projects</a>
+    <ul>
+      <li><a href="#computational-projects">Computational Projects</a></li>
+      <li><a href="#cad-and-ansys-projects">CAD &amp; ANSYS Projects</a></li>
+    </ul>
+  </li>
+  <li><a href="#work-experience">🚁 Internships</a></li>
+  <li><a href="#workforce-developments--summer-schools">
+    🚀 Additional Experience
+  </a></li>
+  <li><a href="#achievements--funding">🏅 Honors &amp; Scholarships</a></li>
+</ul>
+
+</div>
 
 
 ## About Me

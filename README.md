@@ -18,9 +18,8 @@ Last updated: 2 January 2026
 
 
 ## About Me
+<img align="left" src="Pictures/franci_at_KSC.jpg"> 
 Hello and welcome to my digital portfolio! 
-
-<img align="left" src="Pictures/franci_at_KSC.jpg" alt="My Image">
 
 My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. 
 Since a very young age I have always been fascinated by space and that has led me to earning my *BS in aerospace engineering* and currently pursuing a *MS in mechanical engineering* at Yale University. 

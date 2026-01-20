@@ -2,6 +2,8 @@
 
 Last updated: 2 January 2026
 
+<img src="Pictures/WALL-E.png"
+     style="float:right; width:100px; margin:0 0 20px 20px;">
 
 <h2>Quick Navigation</h2>
 
@@ -9,9 +11,6 @@ Last updated: 2 January 2026
 
 <img src="Pictures/AT0A3523.jpg"
      style="float:right; width:280px; margin:0 0 20px 20px;">
-<img src="Pictures/WALL-E.png"
-     style="float:right; width:100px; margin:0 0 20px 20px;">
-
 
 <ul>
   <li><a href="#About-Me">🪐 About Me</a></li>

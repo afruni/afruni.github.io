@@ -66,7 +66,11 @@ of computational, coding, and CAD tools
 </p>
 
 <p>
-I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fiction novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. At Yale, I have also been actively involved in the Society of Women in Engineering (SWE) outreach committee, where I am deeply committed to inspiring the next generation - especially girls - to pursue STEM fields.
+I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fiction novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. 
+</p>
+  
+<p>
+At Yale, I have also been actively involved in the Society of Women in Engineering (SWE) outreach committee, where I am deeply committed to inspiring the next generation - especially girls - to pursue STEM fields.
 </p>
 
 <p>

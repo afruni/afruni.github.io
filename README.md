@@ -1,16 +1,16 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
-Last updated: 2 January 2026
-
-<img src="Pictures/WALL-E.png"
-     style="float:right; width:100px; margin:0 0 20px 20px;">
+<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px;">
+  <span>Last updated: 28 January 2026</span>
+  <img src="Pictures/WALL-E.png" style="width:100px;">
+</div>
 
 <h2>Quick Navigation</h2>
 
 <div style="overflow:auto;">
 
 <img src="Pictures/AT0A3523.jpg"
-     style="float:right; width:280px; margin:0 0 20px 20px;">
+     style="float:right; width:250px; margin:0 0 20px 20px;">
 
 <img src="Pictures/atdisney.JPG"
      style="float:left; width:280px; margin:0 0 20px 20px;">
@@ -21,12 +21,15 @@ Last updated: 2 January 2026
   <li><a href="#senior-design-project">🤖 DROVER – My Senior Design Project</a></li>
   <li><a href="#research-experience">📖 Research</a></li>
   <li><a href="#grad-school-projects">🎯 Grad School Projects</a>
-    <ul>
-      <li><a href="#computational-applied-planning--optimization">
-        Computational – Applied Planning &amp; Optimization
-      </a></li>
-    </ul>
-  </li>
+  <ul>
+    <li><a href="#soft-robotics-project">
+      🦾 Closed-Loop Shape-Changing Soft Robot
+    </a></li>
+    <li><a href="#computational-applied-planning--optimization">
+      Computational – Applied Planning &amp; Optimization
+    </a></li>
+  </ul>
+</li>
   <li><a href="#undergrad-projects">🛠 Undergrad Projects</a>
     <ul>
       <li><a href="#computational-projects">Computational Projects</a></li>
@@ -43,7 +46,7 @@ Last updated: 2 January 2026
 </div>
 
 ## About Me
-<img src="Pictures/franci_at_KSC.jpg"
+<img src="Pictures/tigro.JPG"
      style="float:left; width:380px; margin:0 20px 20px 0;">
 
 <p>Hello and welcome to my digital portfolio!</p>
@@ -205,6 +208,9 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Grad School Projects
+### Master's Research Project: Closed-Loop Shape-Changing Soft Robot
+This project focuses on the design and fabrication of a **soft, shape-changing robotic platform** capable of transitioning between multiple locomotion modes through controlled morphological reconfiguration. The robot is designed to operate in three primary modes: a flat, rectangular configuration that enables inching locomotion; a closed cylindrical configuration that allows rolling; and a hybrid cylindrical configuration that deploys telescoping leg actuators for legged locomotion. My role centers on the **mechanical design of the telescoping leg actuators and the fabrication of silicone-based pneumatic elements that inflate and deflate to drive shape change and motion**. The platform serves as a testbed for exploring closed-loop shape control in soft robotics, integrating mechanical design, soft-material fabrication, and actuation constraints to enable adaptable, multi-modal locomotion.
+
 ### Computational: Applied Planning & Optimization
 For my Applied Planning and Optmization class I developed (using Python) a path-planning algorithm that uses A* in order to find the safest path in terms of elevation for martian rovers. In this project I integrated real NASA elevation data by analyzing an orbiter picture of the Jezero crater. The steeper and higher, the more dangerous it is to traverse for the rover, and therefore, the higher the cost will be. I utilized the library "rasterio", which manipulated the image to get the elevation, and then created the figures using the classic "matplotlib". The code runs two different A* applications, a “standard” one, which only accounts for the distance, and a “terrain-aware” one, which implements the terrain-aware cost. 
 

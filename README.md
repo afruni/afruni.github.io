@@ -46,7 +46,9 @@
 
 </div>
 
-<a href="#about-me">🪐 About Me</a>
+
+## About Me
+<a id="About-Me"></a>
 <img src="Pictures/tigro.JPG"
      style="float:left; width:380px; margin:0 20px 20px 0;">
 
@@ -209,7 +211,7 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Grad School Projects
-### Master's Research Project: Closed-Loop Shape-Changing Soft Robot
+### (#soft-robotics-project)Master's Research Project: Closed-Loop Shape-Changing Soft Robot
 This project focuses on the design and fabrication of a **soft, shape-changing robotic platform** capable of transitioning between multiple locomotion modes through controlled morphological reconfiguration. The robot is designed to operate in three primary modes: a flat, rectangular configuration that enables inching locomotion; a closed cylindrical configuration that allows rolling; and a hybrid cylindrical configuration that deploys telescoping leg actuators for legged locomotion. My role centers on the **mechanical design of the telescoping leg actuators and the fabrication of silicone-based pneumatic elements that inflate and deflate to drive shape change and motion**. The platform serves as a testbed for exploring closed-loop shape control in soft robotics, integrating mechanical design, soft-material fabrication, and actuation constraints to enable adaptable, multi-modal locomotion.
 
 ### Computational: Applied Planning & Optimization

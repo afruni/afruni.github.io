@@ -1,47 +1,48 @@
 <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
-<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px;">
+<div style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
+  <img src="Pictures/WALL-E.png" style="width:90px;">
   <span>Last updated: 28 January 2026</span>
-  <img src="Pictures/WALL-E.png" style="width:100px;">
 </div>
 
 <h2>Quick Navigation</h2>
 
-<div style="overflow:auto;">
+<div style="display:flex; align-items:flex-start; gap:20px; margin-bottom:20px;">
 
-<img src="Pictures/AT0A3523.jpg"
-     style="float:right; width:250px; margin:0 0 20px 20px;">
+  <img src="Pictures/atdisney.JPG" style="width:260px;">
 
-<img src="Pictures/atdisney.JPG"
-     style="float:left; width:280px; margin:0 0 20px 20px;">
+  <ul style="flex:1;">
 
-<ul>
-  <li><a href="#About-Me">🪐 About Me</a></li>
-  <li><a href="#education">🎓 Education &amp; Background</a></li>
-  <li><a href="#senior-design-project">🤖 DROVER – My Senior Design Project</a></li>
-  <li><a href="#research-experience">📖 Research</a></li>
-  <li><a href="#grad-school-projects">🎯 Grad School Projects</a>
   <ul>
-    <li><a href="#soft-robotics-project">
-      🦾 Closed-Loop Shape-Changing Soft Robot
-    </a></li>
-    <li><a href="#computational-applied-planning--optimization">
-      Computational – Applied Planning &amp; Optimization
-    </a></li>
-  </ul>
-</li>
-  <li><a href="#undergrad-projects">🛠 Undergrad Projects</a>
+    <li><a href="#About-Me">🪐 About Me</a></li>
+    <li><a href="#education">🎓 Education &amp; Background</a></li>
+    <li><a href="#senior-design-project">🤖 DROVER – My Senior Design Project</a></li>
+    <li><a href="#research-experience">📖 Research</a></li>
+    <li><a href="#grad-school-projects">🎯 Grad School Projects</a>
     <ul>
-      <li><a href="#computational-projects">Computational Projects</a></li>
-      <li><a href="#cad-and-ansys-projects">CAD &amp; ANSYS Projects</a></li>
+      <li><a href="#soft-robotics-project">
+        🦾 Closed-Loop Shape-Changing Soft Robot
+      </a></li>
+      <li><a href="#computational-applied-planning--optimization">
+        Computational – Applied Planning &amp; Optimization
+      </a></li>
     </ul>
   </li>
-  <li><a href="#work-experience">🚁 Internships</a></li>
-  <li><a href="#workforce-developments--summer-schools">
-    🚀 Additional Experience
-  </a></li>
-  <li><a href="#achievements--funding">🏅 Honors &amp; Scholarships</a></li>
-</ul>
+    <li><a href="#undergrad-projects">🛠 Undergrad Projects</a>
+      <ul>
+        <li><a href="#computational-projects">Computational Projects</a></li>
+        <li><a href="#cad-and-ansys-projects">CAD &amp; ANSYS Projects</a></li>
+      </ul>
+    </li>
+    <li><a href="#work-experience">🚁 Internships</a></li>
+    <li><a href="#workforce-developments--summer-schools">
+      🚀 Additional Experience
+    </a></li>
+    <li><a href="#achievements--funding">🏅 Honors &amp; Scholarships</a></li>
+  </ul>
+
+  <img src="Pictures/AT0A3523.jpg" style="width:230px;">
+
 
 </div>
 

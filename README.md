@@ -55,10 +55,7 @@
 <p>Hello and welcome to my digital portfolio!</p>
 
 <p>
-My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA.
-Since a very young age I have always been fascinated by space and that has led me to earning my
-<em>BS in aerospace engineering</em> and currently pursuing a
-<em>MS in mechanical engineering</em> at Yale University.
+My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate students currently studying for my master's degree in Mechanical Engineering at Yale University. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data and structured planning to improve processes and enable reliable, high-quality outcomes.
 </p>
 
 <p>
@@ -69,14 +66,11 @@ of computational, coding, and CAD tools
 </p>
 
 <p>
-My background spans from <a href="#research-experience">research</a> to
-<a href="#work-experience">industry</a>, along with experience in preparing technical deliverables
-such as PDRs, CDRs, SRRs, etc.
+I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fiction novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. At Yale, I have also been actively involved in the Society of Women in Engineering (SWE) outreach committee, where I am deeply committed to inspiring the next generation - especially girls - to pursue STEM fields.
 </p>
 
 <p>
-I’m eager to apply my skills, continue growing, and to contribute meaningful work to the future of
-aerospace and space exploration!
+I’m eager to apply my skills, continue growing, and to contribute meaningful work!
 </p>
 
 <div style="clear: both;"></div>

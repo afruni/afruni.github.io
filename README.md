@@ -117,13 +117,13 @@ I’m eager to apply my skills, continue growing, and to contribute meaningful w
 ## Skills, Languages & Co-curriculars
 **Engineering Skills**
 
-*CAD Tools*: Creo PTC, Fusion 360, NX.
+*CAD Tools*: SolidWorks, Creo PTC, Fusion 360, NX.
 
 *ANSYS Software*: Fluent, APDL, Workbench (Static Structural).
 
 *Coding Languages*: MATLAB, Simulink, Python.
 
-*Others*: MS Office, 3D Printing, Laser Cutting, Soldering.
+*Others*: MS Office, 3D Printing, 3D scanning, Laser Cutting, Soldering.
 
 **Languages**
 

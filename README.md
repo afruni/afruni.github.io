@@ -41,7 +41,7 @@
 </ul>
 
 
-  <img src="Pictures/AT0A3523.jpg" style="width:230px;">
+  <img src="Pictures/AT0A3523.jpg" style="width:260px;">
 
 
 </div>

@@ -39,7 +39,7 @@ Last updated: 2 January 2026
 
 </div>
 
-<img src="Pictures/atdisney.jpg"
+<img src="Pictures/atdisney.JPG"
      style="float:left; width:280px; margin:0 0 20px 20px;">
 
 ## About Me

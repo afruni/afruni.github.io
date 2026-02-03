@@ -41,15 +41,13 @@
 </ul>
 
 
-  <img src="Pictures/AT0A3523.jpg" style="width:260px;">
-
 
 </div>
 
 
 ## About Me
 <a id="About-Me"></a>
-<img src="Pictures/tigro.JPG"
+<img src="Pictures/AT0A3523.jpg" style="width:280px;">
      style="float:left; width:380px; margin:0 20px 20px 0;">
 
 <p>Hello and welcome to my digital portfolio!</p>

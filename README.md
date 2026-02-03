@@ -2,7 +2,7 @@
 
 <div style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
   <img src="Pictures/WALL-E.png" style="width:90px;">
-  <span>Last updated: 28 January 2026</span>
+  <span>Last updated: 3 February 2026 </span>
 </div>
 
 <h2>Quick Navigation</h2>
@@ -213,6 +213,11 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 <a id="soft-robotics-project"></a>
 
 This project focuses on the design and fabrication of a **soft, shape-changing robotic platform** capable of transitioning between multiple locomotion modes through controlled morphological reconfiguration. The robot is designed to operate in three primary modes: a flat, rectangular configuration that enables inching locomotion; a closed cylindrical configuration that allows rolling; and a hybrid cylindrical configuration that deploys telescoping leg actuators for legged locomotion. My role centers on the **mechanical design of the telescoping leg actuators and the fabrication of silicone-based pneumatic elements that inflate and deflate to drive shape change and motion**. The platform serves as a testbed for exploring closed-loop shape control in soft robotics, integrating mechanical design, soft-material fabrication, and actuation constraints to enable adaptable, multi-modal locomotion.
+
+<div style="display: flex; gap: 10px;">
+  <img src="molds.jpeg" width="300">
+  <img src="voxels_spinning.gif" width="300">
+</div>
 
 ### Computational: Applied Planning & Optimization
 For my Applied Planning and Optmization class I developed (using Python) a path-planning algorithm that uses A* in order to find the safest path in terms of elevation for martian rovers. In this project I integrated real NASA elevation data by analyzing an orbiter picture of the Jezero crater. The steeper and higher, the more dangerous it is to traverse for the rover, and therefore, the higher the cost will be. I utilized the library "rasterio", which manipulated the image to get the elevation, and then created the figures using the classic "matplotlib". The code runs two different A* applications, a “standard” one, which only accounts for the distance, and a “terrain-aware” one, which implements the terrain-aware cost. 

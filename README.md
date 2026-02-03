@@ -47,7 +47,8 @@
 
 ## About Me
 <a id="About-Me"></a>
-<img src="Pictures/AT0A3523.jpg" style="width:280px;"> 
+<img src="Pictures/AT0A3523.jpg"
+     style="width:280px; float:left; margin: 0 20px 20px 0;">
 
 <p>Hello and welcome to my digital portfolio!</p>
 

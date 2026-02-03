@@ -215,8 +215,8 @@ I have volunteered in Dr. Andrew Palmer’s “Red House”, a greenhouse where 
 This project focuses on the design and fabrication of a **soft, shape-changing robotic platform** capable of transitioning between multiple locomotion modes through controlled morphological reconfiguration. The robot is designed to operate in three primary modes: a flat, rectangular configuration that enables inching locomotion; a closed cylindrical configuration that allows rolling; and a hybrid cylindrical configuration that deploys telescoping leg actuators for legged locomotion. My role centers on the **mechanical design of the telescoping leg actuators and the fabrication of silicone-based pneumatic elements that inflate and deflate to drive shape change and motion**. The platform serves as a testbed for exploring closed-loop shape control in soft robotics, integrating mechanical design, soft-material fabrication, and actuation constraints to enable adaptable, multi-modal locomotion.
 
 <div style="display: flex; gap: 10px;">
-  <img src="molds.jpeg" width="300">
-  <img src="voxels_spinning.gif" width="300">
+  <img src="Pictures/molds.jpeg" width="300">
+  <img src="Pictures/voxels_spinning.gif" width="300">
 </div>
 
 ### Computational: Applied Planning & Optimization

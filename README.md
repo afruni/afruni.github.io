@@ -225,7 +225,7 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
 </div>
 
 Example of what the leg actuator will look like folded. I'm now using this CAD model to generate the mold that will be 3D printed and used to cast the silicone!
-[leg-actuator](Pictures/actuator-cad.png)
+![leg-actuator](Pictures/actuator-cad.png)
 
 
 ### CAD projects

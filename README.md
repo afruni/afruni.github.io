@@ -29,7 +29,7 @@
   <li>
     <a href="#undergrad-projects">🛠 Undergrad Projects</a>
     <ul>
-      <li><a href="#computational-projects">Computational (MATLAB &amp Simulink) Projects</a></li>
+      <li><a href="#computational-projects">Computational (MATLAB &amp; Simulink) Projects</a></li>
       <li><a href="#cad-and-ansys-projects">CAD &amp; ANSYS Projects</a></li>
     </ul>
   </li>
@@ -59,15 +59,15 @@ My name is Francesca and I'm from a little town in Northern Italy but currently 
 I have served as <em>project manager and principal investigator</em> of my
 <a href="#senior-design-project">senior design team</a>, and I have hands-on experience with a wide range
 of computational, coding, and CAD tools
-(<a href="#skills-languages--co-curriculars">full list here</a>).
+(<a href="#skills-languages--co-curriculars">full list here</a>). ✨
 </p>
 
 <p>
-I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. ☕️📖🎧🫧
+I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. ☕️📖
 </p>
   
 <p>
-At Yale, I have also been actively involved in the Society of Women in Engineering (SWE) outreach committee, where I am deeply committed to inspiring the next generation - especially girls - to pursue STEM fields.
+At Yale, I have also been actively involved in the Society of Women in Engineering (SWE) outreach committee, where I am deeply committed to inspiring the next generation - especially girls - to pursue STEM fields. 🫧
 </p>
 
 <p>

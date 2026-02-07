@@ -230,9 +230,9 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
 Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. And finally, just a drawing of a part I made.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <embed src="Pictures/hw-1-mouthstick-afruni.pdf" width="300">
-  <embed src="Pictures/final_walker_assembly_francesca_Afruni.pdf" width="300">
-  <embed src="Pictures/Pressure-Plate-drawing-aFRUNI.PDF" width="300">
+  <img src="Pictures/Screenshot-2026-02-07-145648.png" width="300">
+  <img src="Pictures/Screenshot-2026-02-07-145708.png" width="300">
+  <img src="Pictures/Screenshot-2026-02-07-145728.png" width="300">
 </div>
 
 ### Computational: Applied Planning & Optimization

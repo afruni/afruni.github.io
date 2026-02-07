@@ -21,9 +21,8 @@
     <a href="#grad-school-projects">🎯 Grad School Projects</a>
     <ul>
       <li><a href="#soft-robotics-project">🦾 Closed-Loop Shape-Changing Soft Robot</a></li>
-      <li><a href="#cad-projects-cae">CAD Projects: Computer-Aided Engineering</a>
-      <li><a href="#computational-applied-planning--optimization">
-        Computational – Applied Planning &amp; Optimization
+      <li><a href="#cad-projects">CAD Projects: Computer-Aided Engineering</a>
+      <li><a href="#computational-applied-planning--optimization">Computational – Applied Planning &amp; Optimization
       </a></li>
     </ul>
   </li>
@@ -226,7 +225,9 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
   <img src="Pictures/voxels_spinning.gif" width="300">
 </div>
 
-### CAD projects: Computer-Aided Engineering Class
+### CAD projects
+*Computer-Aided Engineering Class*
+
 Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. And finally, just a drawing of a part I made.
 
 <div style="display: flex; justify-content: center; gap: 10px;">

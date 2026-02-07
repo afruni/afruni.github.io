@@ -49,7 +49,7 @@
 <img src="Pictures/AT0A3523.jpg"
      style="width:280px; float:left; margin: 0 20px 20px 0;">
 
-<p>Hello and welcome to my digital portfolio!</p>
+<p>Hello and welcome to my digital portfolio! ☀️</p>
 
 <p>
 My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate student currently studying for my master's degree in Mechanical Engineering at Yale University. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data and structured planning to improve processes and enable reliable, high-quality outcomes.
@@ -63,7 +63,7 @@ of computational, coding, and CAD tools
 </p>
 
 <p>
-I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. 
+I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. ☕️📖🎧🫧
 </p>
   
 <p>
@@ -77,7 +77,7 @@ I’m eager to apply my skills, continue growing, and to contribute meaningful w
 <div style="clear: both;"></div>
 
 
---> **Please, feel free to contact me at francesca.afruni@yale.edu. CV, transcripts, and recommendations available upon request.** <--
+⏩ **Please, feel free to contact me at francesca.afruni@yale.edu. CV, transcripts, and recommendations available upon request.** ⏪
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 

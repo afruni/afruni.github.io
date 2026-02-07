@@ -224,9 +224,10 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
   <img src="Pictures/voxels_spinning.gif" width="300">
 </div>
 
-Example of what the leg actuator will look like folded. I'm now using this CAD model to generate the mold that will be 3D printed and used to cast the silicone!
+Example of what the leg actuator will look like folded. I'm now using this CAD model  I have made to generate the mold that will be 3D printed and used to cast the silicone!
 ![leg-actuator](Pictures/actuator-cad.png)
 
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ### CAD projects
 *Computer-Aided Engineering Class*
@@ -238,6 +239,8 @@ Some of the CAD works we have done so far in my Computer-Aided Engineering class
   <img src="Pictures/Screenshot-2026-02-07-145708.png" width="300">
   <img src="Pictures/Screenshot-2026-02-07-145728.png" width="300">
 </div>
+
+[🔝 Back to Quick Navigation](#quick-navigation)
 
 ### Computational: Applied Planning & Optimization
 For my Applied Planning and Optmization class I developed (using Python) a path-planning algorithm that uses A* in order to find the safest path in terms of elevation for martian rovers. In this project I integrated real NASA elevation data by analyzing an orbiter picture of the Jezero crater. The steeper and higher, the more dangerous it is to traverse for the rover, and therefore, the higher the cost will be. I utilized the library "rasterio", which manipulated the image to get the elevation, and then created the figures using the classic "matplotlib". The code runs two different A* applications, a “standard” one, which only accounts for the distance, and a “terrain-aware” one, which implements the terrain-aware cost. 

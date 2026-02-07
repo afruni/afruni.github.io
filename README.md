@@ -21,9 +21,8 @@
     <a href="#grad-school-projects">🎯 Grad School Projects</a>
     <ul>
       <li><a href="#soft-robotics-project">🦾 Closed-Loop Shape-Changing Soft Robot</a></li>
-      <li><a href="#cad-projects">CAD Projects: Computer-Aided Engineering</a>
-      <li><a href="#computational-applied-planning--optimization">Computational – Applied Planning &amp; Optimization
-      </a></li>
+      <li><a href="#cad-projects">CAD Projects: Computer-Aided Engineering</a></li>
+      <li><a href="#computational-applied-planning--optimization">Computational – Applied Planning &amp; Optimization</a></li>
     </ul>
   </li>
 

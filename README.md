@@ -22,14 +22,14 @@
     <ul>
       <li><a href="#soft-robotics-project">🦾 Closed-Loop Shape-Changing Soft Robot</a></li>
       <li><a href="#cad-projects">CAD Projects: Computer-Aided Engineering</a></li>
-      <li><a href="#computational-applied-planning--optimization">Computational – Applied Planning &amp; Optimization</a></li>
+      <li><a href="#computational-applied-planning--optimization">Computational (Python) – Applied Planning &amp; Optimization</a></li>
     </ul>
   </li>
 
   <li>
     <a href="#undergrad-projects">🛠 Undergrad Projects</a>
     <ul>
-      <li><a href="#computational-projects">Computational Projects</a></li>
+      <li><a href="#computational-projects">Computational (MATLAB &amp Simulink) Projects</a></li>
       <li><a href="#cad-and-ansys-projects">CAD &amp; ANSYS Projects</a></li>
     </ul>
   </li>

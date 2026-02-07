@@ -224,14 +224,14 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
   <img src="Pictures/voxels_spinning.gif" width="300">
 </div>
 
-Example of the what the leg actuator will look like folded, I'm now using this CAD model to generate the mold that will be 3D printed and used to cast the silicone!
-[](Pictures/actuator-cad.png)
+Example of what the leg actuator will look like folded. I'm now using this CAD model to generate the mold that will be 3D printed and used to cast the silicone!
+[leg-actuator](Pictures/actuator-cad.png)
 
 
 ### CAD projects
 *Computer-Aided Engineering Class*
 
-Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. And finally, just a drawing of a part I made.
+Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. And finally, just a drawing of a part I made. All done using Solidworks!
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="Pictures/Screenshot-2026-02-07-145648.png" width="300">

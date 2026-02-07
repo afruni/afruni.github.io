@@ -222,6 +222,7 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="Pictures/molds.jpeg" width="300">
   <img src="Pictures/voxels_spinning.gif" width="300">
+  <img src="Pictures/actuator-cad.png" width="300">  
 </div>
 
 ### CAD projects

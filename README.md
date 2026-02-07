@@ -222,8 +222,11 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="Pictures/molds.jpeg" width="300">
   <img src="Pictures/voxels_spinning.gif" width="300">
-  <img src="Pictures/actuator-cad.png" width="300">  
 </div>
+
+Example of the what the leg actuator will look like folded, I'm now using this CAD model to generate the mold that will be 3D printed and used to cast the silicone!
+[](Pictures/actuator-cad.png)
+
 
 ### CAD projects
 *Computer-Aided Engineering Class*

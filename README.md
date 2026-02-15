@@ -2,7 +2,7 @@
 
 <div style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
   <img src="Pictures/WALL-E.png" style="width:90px;">
-  <span>Last updated: 7 February 2026 </span>
+  <span>Last updated: 15 February 2026 </span>
 </div>
 
 <h2>Quick Navigation</h2>

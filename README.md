@@ -232,12 +232,16 @@ Example of what the leg actuator will look like folded. I'm now using this CAD m
 ### CAD projects
 *Computer-Aided Engineering Class*
 
-Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. And finally, just a drawing of a part I made. All done using Solidworks!
+Some of the CAD works we have done so far in my Computer-Aided Engineering class. Featuring a mouthstick, a device for disabled people that allows them to operate laptops, mobile devices, and more. A walker, specifically for disabled kids. A drawing of a presure plate and a gif of an assembly of a scotch-yoke assembly I made. All done using Solidworks!
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="Pictures/Screenshot-2026-02-07-145648.png" width="300">
   <img src="Pictures/Screenshot-2026-02-07-145708.png" width="300">
-  <img src="Pictures/Screenshot-2026-02-07-145728.png" width="300">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+<img src="Pictures/Screenshot-2026-02-07-145728.png" width="300">
+<img src="Pictures/scotch-yolk.gif" width="300">
 </div>
 
 [🔝 Back to Quick Navigation](#quick-navigation)

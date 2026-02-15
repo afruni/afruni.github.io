@@ -1,4 +1,4 @@
-<!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
+ <!-- <h1 align="center"> Francesca's Digital Portfolio 🚀</h1> -->
 
 <div style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
   <img src="Pictures/WALL-E.png" style="width:90px;">
@@ -52,14 +52,14 @@
 <p>Hello and welcome to my digital portfolio! ☀️</p>
 
 <p>
-My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate student currently studying for my master's degree in Mechanical Engineering at Yale University. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data and structured planning to improve processes and enable reliable, high-quality outcomes.
+My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate student currently studying for my master's degree in Mechanical Engineering at Yale University. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data, technical tools, and structured planning to improve processes and enable reliable, high-quality outcomes.
 </p>
 
 <p>
 I have served as <em>project manager and principal investigator</em> of my
 <a href="#senior-design-project">senior design team</a>, and I have hands-on experience with a wide range
 of computational, coding, and CAD tools
-(<a href="#skills-languages--co-curriculars">full list here</a>). ✨
+(<a href="#skills-languages--co-curriculars">full list here</a>), as well as producing technical documentation and formal design reviews (like SRR, PDR, CDR..). ✨
 </p>
 
 <p>

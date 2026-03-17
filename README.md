@@ -82,7 +82,7 @@ I’m eager to apply my skills, continue growing, and to contribute meaningful w
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ## Education
-<img src="Pictures/FraAtKSC.jpg"
+<img src="Pictures/franci_at_KSC.jpg"
      style="float:left; width:250px; margin:0 20px 20px 0;">
 
 <ul>

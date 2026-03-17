@@ -9,7 +9,7 @@
 
 <div style="display:flex; align-items:flex-start; gap:20px; margin-bottom:20px;">
 
-  <img src="Pictures/atdisney.JPG" style="width:260px;">
+  <img src="Pictures/FraAtKSC.jpg" style="width:260px;">
 
   <ul style="flex:1;">
   <li><a href="#about-me">🪐 About Me</a></li>
@@ -52,7 +52,7 @@
 <p>Hello and welcome to my digital portfolio! ☀️</p>
 
 <p>
-My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate student currently studying for my master's degree in Mechanical Engineering at Yale University. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data, technical tools, and structured planning to improve processes and enable reliable, high-quality outcomes.
+My name is Francesca and I'm from a little town in Northern Italy but currently based in the USA. I am a very motivated graduate student currently studying for my master's degree in Mechanical Engineering at Yale University, and a background in Aerospace Engineering. I consider myself a very creative and project-driven person that thrives in fast-paced environments. I am experienced in independently leading multidisciplinary projects, using data, technical tools, and structured planning to improve processes and enable reliable, high-quality outcomes.
 </p>
 
 <p>
@@ -63,7 +63,7 @@ of computational, coding, and CAD tools
 </p>
 
 <p>
-I love everything that has to do with engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, painting, or planning a trip to Disney. ☕️📖
+I love everything that has to do with aerospace and engineering, spanning from robotics to space. In my free time I love reading books - mainly fictional novels - and if I'm not tinkering with something mechanical, I'm probably at the gym, horse-riding, or painting. ☕️📖
 </p>
   
 <p>

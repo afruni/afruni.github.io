@@ -228,8 +228,8 @@ This is one of the first iterations of the molds, the picture shows both top and
 ![leg-actuator](Pictures/1stmolds.jpeg)
 
 The following movie shows an example of how the leg actuator will inflate and deflate. This is only the first iteration of the mold and I'm currently working on the second draft. 
-[!gif](Pictures/leg-actuator-1stdraft.gif)
-
+ <img src="Pictures/voxels_spinning.gif" width="300">
+ 
 [🔝 Back to Quick Navigation](#quick-navigation)
 
 ### CAD projects

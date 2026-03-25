@@ -2,7 +2,7 @@
 
 <div style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
   <img src="Pictures/WALL-E.png" style="width:90px;">
-  <span>Last updated: 15 February 2026 </span>
+  <span>Last updated: 25 March 2026 </span>
 </div>
 
 <h2>Quick Navigation</h2>
@@ -224,8 +224,11 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
   <img src="Pictures/voxels_spinning.gif" width="300">
 </div>
 
-Example of what the leg actuator will look like folded. I'm now using this CAD model  I have made to generate the mold that will be 3D printed and used to cast the silicone!
-![leg-actuator](Pictures/actuator-cad.png)
+This is one of the first iterations of the molds, the picture shows both top and bottom molds as well as the silicon product!
+![leg-actuator](Pictures/molds.jpeg)
+
+The following movie shows an example of how the leg actuator will inflate and deflate. This is only the first iteration of the mold and I'm currently working on the second draft. 
+[!gif](Pictures/leg-actuator-1stdraft.gif)
 
 [🔝 Back to Quick Navigation](#quick-navigation)
 

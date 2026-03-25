@@ -227,7 +227,8 @@ This project focuses on the design and fabrication of a **soft, shape-changing r
 This is one of the first iterations of the molds, the picture shows both top and bottom molds as well as the silicon product!
 ![leg-actuator](Pictures/1stmolds.jpeg)
 
-The following movie shows an example of how the leg actuator will inflate and deflate. This is only the first iteration of the mold and I'm currently working on the second draft. 
+The following movie shows an example of how the leg actuator will inflate and deflate. This is only the first iteration of the mold and I'm currently working on the second draft. (Video sped up x1.7)
+
  <img src="Pictures/leg-actuator-1stdraft.gif" width="300">
  
 [🔝 Back to Quick Navigation](#quick-navigation)
